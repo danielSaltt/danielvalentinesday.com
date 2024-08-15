@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://boost.com.au/blogs/help-topics.atom</id>
+  <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics"/>
+  <link rel="self" type="application/atom+xml" href="https://boost.com.au/blogs/help-topics/tagged/rates.atom"/>
+  <title>Boost Mobile Australia - Help Topics</title>
+  <updated>2024-02-14T06:46:40+11:00</updated>
+  <author>
+    <name>Boost Mobile Australia</name>
+  </author>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/data-free-music-streaming-apple-music</id>
+    <published>2023-07-24T14:35:07+10:00</published>
+    <updated>2023-07-24T14:35:07+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/data-free-music-streaming-apple-music"/>
+    <title>Stream Apple Music data free</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>Can I stream Apple Music data free?</h1>
+<p>Boost Mobile no longer offers Data Free streaming with Apple Music.</p>
+<p>To find out more about what is included in our plans, click <a href="https://boost.com.au/pages/prepaid-plans" target="_blank" title="Prepaid Plans" rel="noopener noreferrer">here</a>.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/wifi-calling</id>
+    <published>2021-12-03T15:30:48+11:00</published>
+    <updated>2023-10-25T10:38:11+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/wifi-calling"/>
+    <title>Wi-Fi Calling - Help and Support - Boost Mobile</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>Does Boost support Wi-Fi Calling?</h1>
+<p>Wi-Fi calling enables you to make calls using a fixed Wi-Fi connection from your compatible Boost phone when you can’t connect to the mobile network. Your phone simply uses your Wi-Fi network instead of the mobile network, so you can make and receive calls as you would normally.</p>
+<p> </p>
+<p><strong>To use Wi-Fi calling, you need to:</strong></p>
+<ul>
+<li>Have a Wi-Fi calling compatible smartphone or tablet</li>
+<li>Have 4G voice calls enabled</li>
+<li>Have up-to-date software</li>
+<li>Turn on Wi-Fi calling</li>
+</ul>
+<p> </p>
+<p><strong><span class="heading-16">How do I turn on Wi-Fi calling?</span></strong></p>
+<p>For iPhone:</p>
+<ol>
+<li>Go to <strong>Settings</strong>
+</li>
+<li>Select <strong>Mobile</strong>
+</li>
+<li>Turn on <strong>Wi-Fi calling</strong>
+</li>
+</ol>
+<p> </p>
+<p>For Android devices:</p>
+<ol>
+<li>Go to your phone's calling app</li>
+<li>Select <strong>More </strong>or the three dots in the top right corner</li>
+<li>Select <strong>Settings</strong>
+</li>
+<li>Turn on <strong>Wi-Fi Calling</strong>
+</li>
+</ol>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/included-calls</id>
+    <published>2021-12-03T13:48:03+11:00</published>
+    <updated>2023-10-25T10:33:08+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/included-calls"/>
+    <title>Included Calls - Help and Support - Boost Mobile</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>What types of calls are included in Boost plans?</h1>
+<p>All our plans include unlimited calls and text to standard national numbers, which means you can call regular landline and mobile numbers as much as you like. This also includes most 1800, 1300 or 13 numbers.</p>
+<p>It e<span>xcludes calls and texts to international numbers, satellite and premium numbers (eg. 19xx numbers), operator assisted calls (most 12xx numbers) and all use overseas.</span></p>
+<p>Some of our plans also include standard calls to international numbers.</p>
+<p>For more information about our current plan inclusions, click <a href="https://boost.com.au/pages/prepaid-plans" title="Prepaid Plans">here</a>.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/mms-inclusions</id>
+    <published>2021-12-01T11:38:22+11:00</published>
+    <updated>2023-10-25T10:34:33+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/mms-inclusions"/>
+    <title>MMS Inclusions - Help and Support - Boost Mobile</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>Is MMS included my plan?</h1>
+<p>Yes! MMS is included in all Boost Mobile plans as part of your unlimited standard national calls &amp; text inclusions. </p>
+<p>If you are on a $35+ plan, then your plan also includes an allocation of standard international text (including MMS) to any destination.</p>
+<p>For more information about our current plans, click <a href="https://boost.com.au/pages/prepaid-plans" target="_blank" title="Prepaid Plans" rel="noopener noreferrer">here</a>.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/extras-data-packs</id>
+    <published>2021-03-18T12:35:05+11:00</published>
+    <updated>2023-09-27T17:22:51+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/extras-data-packs"/>
+    <title>Need a Little Extra Data on Your Boost Mobile Plan?</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="vc_row wpb_row vc_row-fluid vc_row-o-content-top vc_row-flex wpex-vc-has-custom-column-spacing wpex-vc-column-spacing-0px">
+<div class="wpb_column vc_column_container vc_col-sm-12 wpex-vc_col-has-fill">
+<div class="vc_column-inner vc_custom_1582761165437">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element vc_custom_1612222131751 wpex-rcss-1" data-wpex-rcss='{"font-size":{"d":"14px","tl":"14px","tp":"13px","pl":"12px","pp":"11px"}}'>
+<div class="wpb_wrapper">
+<h1 style="text-align: left;"><strong>Need a little Extra data?</strong></h1>
+<p><strong></strong><strong>Extras are perfect for those times that you need just a bit more on top of your current recharge. You can grab one using your favourite recharge method.</strong></p>
+<p>The current Boost Mobile Prepaid Plan has two Extra’s available:</p>
+<ul>
+<li>$5 Data Pack – includes 1GB with a 7 day expiry</li>
+<li>$20 Data Pack – includes 4GB with a 28 day expiry.</li>
+</ul>
+<p>If you’re on Boost Anytime Ultra or Boost Anytime Plus (joined Boost between 31 October 2017 and 1 February 2021 and have not been updated to Boost Mobile Prepaid), there are two Add-Ons available.</p>
+<ul>
+<li>$5 Add-On – includes 1B of data and $5 credit that can be used towards data (at standard rates), calls &amp; text to satellite and premium numbers (e.g. 19xx numbers), operator assisted calls (most 12xx numbers)</li>
+<li>$15 Add-On – includes 3GB of data and $15 credit that can be used towards data (at standard rates), calls &amp; text to satellite and premium numbers (e.g. 19xx numbers), operator assisted calls (most 12xx numbers) and international calls and text from Australia not included in your recharge.</li>
+</ul>
+<p>If you’re on UNLTD Plus (joined Boost between 12 July 2016 – 31 October 2017 and have not been updated to Boost Mobile Prepaid) you can grab a $15 Bolt-On.</p>
+<p>If you’re on UNLTD (joined before 12 July 2016 and have not changed your offer) you can grab a $10 Add-On. Both include credit to use on international calls/text, data and premium services.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/using-your-phone-overseas</id>
+    <published>2021-03-16T11:32:20+11:00</published>
+    <updated>2024-03-26T15:39:16+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/using-your-phone-overseas"/>
+    <title>International Roaming Help</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How do I use my phone overseas? </h1>
+<p class="p1">You can continue to use your Boost service in selected overseas destinations. Simply recharge using the My Boost Mobile app. Your roaming pack will start as soon as you purchase it. Check out our <a href="https://boost.com.au/pages/international-roaming">International Roaming page</a> for more information and <a href="https://boost.com.au/pages/help-topics">FAQs</a>.</p>
+<ul></ul>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/call-rates</id>
+    <published>2021-03-16T11:20:45+11:00</published>
+    <updated>2021-12-20T12:01:31+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/call-rates"/>
+    <title>Boost Mobile Call Rates</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How much do calls cost?</h1>
+<p><strong>All of our plans include unlimited calls and text to standard national numbers.</strong></p>
+<p>Our current Boost Mobile Prepaid plan also includes unlimited international calls to 20 selected destinations, on recharges of $30+. See <a href="https://boost.com.au/international/">international</a> for full details on the international inclusions for your recharge.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/international-calls</id>
+    <published>2021-03-16T11:19:29+11:00</published>
+    <updated>2023-07-18T13:31:49+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/international-calls"/>
+    <title>Boost International Calls &amp; Rates</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How much do International calls cost?</h1>
+<p>With Boost Mobile Prepaid, recharges of $35 or more include; unlimited international calls to 20 selected destinations, an allocation of minutes to a further 30 destinations and an allocation of texts to any country in the world.</p>
+<p>See <a href="https://boost.com.au/international/">international calls</a> for full details of the international inclusions for your recharge.</p>
+<p>If you're heading overseas, we also have roaming options available. Head to our <a href="/pages/international-roaming">International Roaming</a> page for more info. </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/coverage</id>
+    <published>2021-03-16T11:17:28+11:00</published>
+    <updated>2023-07-18T13:38:51+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/coverage"/>
+    <title>Boost Mobile Coverage</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>What coverage do I get with Boost Mobile?</h1>
+<p><strong>Boost Mobile is on the full Telstra mobile Network providing coverage to 99.4% of the population and covering more than 2.6million square kilometres – that’s 1 million square kilometres more than any other mobile network.  Check out our <a href="https://boost.com.au/coverage-map/">coverage map</a> to see the coverage in your area.</strong></p>
+<p><br>If you believe there is an outage in your area you can check it <a href="https://outages.telstra.com.au/#/mobile?pageSource=home" target="_blank" title="Service Status Tool" rel="noopener noreferrer">here</a>.</p>]]>
+    </content>
+  </entry>
+</feed>

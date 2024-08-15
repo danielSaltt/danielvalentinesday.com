@@ -1,0 +1,96 @@
+var datetime,height,width,width_main;function scaling(width2,height2){width2>1023&&(width2>1480&&width2?fontSize=1:(fontSize=(width2-80)/1400,fontSize=width2/1480)),width2<1024&&(width2>479?fontSize=width2/983:(fontSize=width2/479,fontSize=width2/412,fontSize=width2/434)),document.querySelector("html").style.fontSize=fontSize+"px",document.querySelectorAll(".scale-px").forEach(function(v,i){v.style.scale=fontSize})}height=window.innerHeight,width=window.innerWidth,scaling(width,height),window.addEventListener("load",function(){});var availableTagsRaw=`Apple iPhone XR
+Apple iPhone XS
+Apple iPhone SE 2020
+Apple iPhone SE 2022
+Apple iPhone 11
+Apple iPhone 11 Pro
+Apple iPhone 11 Pro Max
+Apple iPhone 12
+Apple iPhone 12 mini
+Apple iPhone 12 Pro
+Apple iPhone 12 Pro Max
+Apple iPhone 13
+Apple iPhone 13 mini
+Apple iPhone 13 Pro
+Apple iPhone 13 Pro Max
+Apple iPhone 14
+Apple iPhone 14 Pro
+Apple iPhone 14 Plus
+Apple iPhone 14 Pro Max
+Apple iPhone 15
+Apple iPhone 15 Plus
+Apple iPhone 15 Pro
+Apple iPhone 15 Pro Max
+Samsung Galaxy S20 5G
+Samsung Galaxy S20 Ultra 5G
+Samsung Galaxy S20+ 5G
+Samsung Galaxy S21 5G
+Samsung Galaxy S21 Ultra 5G
+Samsung Galaxy S21+ 5G
+Samsung Galaxy S22
+Samsung Galaxy S22 Ultra
+Samsung Galaxy S22+
+Samsung Galaxy Z Flip
+Samsung Galaxy Z Flip3 5G
+Samsung Galaxy Z Flip 4
+Samsung Galaxy Z Fold2 5G
+Samsung Galaxy Z Fold3 5G
+Samsung Galaxy Z Fold4
+Samsung Galaxy Z Fold5
+Samsung Galaxy Z Flip5
+Samsung Galaxy S23
+Samsung Galaxy S23+
+Samsung Galaxy S23 Ultra
+Google Pixel 3a
+Google Pixel 4a
+Google Pixel 5
+Google Pixel 6
+Google Pixel 6 Pro
+Google Pixel 6a
+Google Pixel 7
+Google Pixel 7 Pro
+Google Pixel 7a
+Google Pixel 8
+Google Pixel 8 Pro
+Motorola Razr 40
+Motorola Razr40 Ultra
+HMD Global Nokia X30 5G
+Oppo Find N2 Flip
+Oppo Find X3 Pro
+Oppo Find X5 Pro
+Apple iPad Pro (2021) 12.9" (5th Genration)
+Apple iPad Pro 11 (2021) 3rd generation
+Apple iPad 7th Gen (2019) 10.2"
+Apple iPad 8th Gen (2020) 10.2"
+Apple iPad 9th Gen (2021) 10.2"
+Apple iPad Air (2022) 5th generation
+Apple iPad Air (2020) 4th generation
+Apple iPad mini 6 (2021)
+Microsoft Surface Go 3
+Microsoft Surface Pro 8
+Microsoft Surface Pro 9 5G
+Samsung Galaxy Tab S9 5G
+Samsung Galaxy Tab S9 FE 5G
+Samsung Galaxy Tab S9 Ultra 5G
+Samsung Galaxy Tab S9+ 2023`,availableTags=availableTagsRaw.split(`
+`);$(".product-item__action-list.button-stack").append('<button type="reset" onclick="esim_popup()" class="product-item__action-button button button--small button--primary button-esim">BUY AN eSIM</button>');function esim_popup(url){var buySim="Buy a SIM",cookieValue="";url==null?(url="https://boost.com.au/pages/prepaid-plans?esim=1",buySim="Shop now",cookieValue="plans"):url.includes("?sku=")?cookieValue=url.split("?sku=")[1]:url.includes("https://boost.com.au/")?(cookieValue=url.split("https://boost.com.au/")[1],url=url+"&esim=1"):(cookieValue=url,url=url+"?esim=1"),setCookie("esim",cookieValue,1);var esimYes="To get connected, download the My Boost Mobile app, select eSIM and follow the prompts.",esimNo="Device not found.<br>Check with your device manufacturer to see if eSIM can be used. Find out more about eSIM. (hyperlink to esim landing page).",autocompleteText2=`<p class="sg-14">Download the My Boost Mobile App, select eSIM and enter your details.</p>
+<a class="button-app-store" href="https://apps.apple.com/au/app/my-boost-mobile/id1536871973" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0490/0896/7844/files/apple-app-store.png?v=1700433728" alt="Download on the App Store"></a>
+<a class="button-google-play" href="https://play.google.com/store/apps/details?id=com.boost.mobile.myboost&pli=1" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0490/0896/7844/files/google-play.png?v=1700433728" alt="Get it on Google Play"></a>`;$("body").prepend(`<section class="in section-boost section-popup-exit audience-all" data-audience="audience-all"><div class="popup-exit-bg" onclick="popupRemove();"></div>
+
+<div class="popup-exit-inner pure-g boost-autocomplete-wrap"><div class="pure-u-1 br">
+ 
+<img src="https://cdn.shopify.com/s/files/1/0490/0896/7844/files/popup-exit-exit.svg?v=1698808615" style="position: absolute;right: 10rem;top: 10rem;width: 24rem;height: auto;cursor: pointer;" onclick="popupRemove();">
+  
+    <div id="boost-autocomplete">
+<img src="https://cdn.shopify.com/s/files/1/0490/0896/7844/files/icon-esim.svg?v=1700525862" style="width: 100rem;position:relative;padding-bottom:20rem;top:-10rem;"> 
+        <h2 class="sg-38">Connect now with <span>eSIM</span></h2>
+        <p><strong>Check device compatiblity</strong></p>
+        <div>
+            <input id="autocomplete" placeholder="Search devices...">
+        </div>
+        <div id="autocomplete-result-1"></div>
+        <div id="autocomplete-result-2">`+autocompleteText2+`</div>
+    </div>
+    
+    </div></div></section>`),setTimeout(function(){$(".section-popup-exit").removeClass("in")},10);var e,u;$("#autocomplete").autocomplete({source:availableTags,response:function(event,ui){ui.content.length==0?($("#autocomplete-result-1").html("<p>Your device is not compatible.</p>"),$("#autocomplete-result-2").html('<p>Get a physical SIM.</p><a class="sg-button" href="'+url+'">'+buySim+"</a>")):(ui.content.length==1,$("#autocomplete-result-1").html(""),$("#autocomplete-result-2").html(autocompleteText2))},select:function(event,ui){$("#autocomplete-result-1").html("<p>Your device is compatible.</p>")}})}function popupRemove(){$(".section-popup-exit").addClass("in"),setTimeout(function(){$(".section-popup-exit").remove()},500)}$(".product-form .product-meta__title").text().includes("SIM")&&$(".product-meta").prepend('<p class="boost-callout-losange boost-now-on-5g">NOW ON 5G</p>');function loadResize(){height=$(window).height(),width=$(window).width(),scaling(width,height),setTimeout(function(){$("body").addClass("loaded")},1e3),destinationsTable()}function priceResize(){$(".promo-price").each(function(){var html=$(this).html();html.indexOf("<span> .")>-1||html.indexOf(".")>-1&&(html=html.replace(".","<span> .")+"</span>",$(this).html(html))})}priceResize();function esim_url(){location.href.includes("boost.com.au/collections/")||location.href.includes("boost.com.au/products/")?$(".button-esim").each(function(){var url=$(this).parent().find("button").attr("onclick");url=url.split("href='")[1],url=url.split("';")[0],$(this).attr("onclick",`esim_popup('${url}')`)}):location.href.includes("boost.com.au/pages/prepaid-plans")?$(".button-esim").each(function(){var url=$(this).parent().find("a").attr("href");$(this).attr("onclick",`esim_popup('${url}')`)}):$(".button-esim").each(function(){var url="https://boost.com.au/pages/prepaid-plans";$(this).attr("onclick",`esim_popup('${url}')`)}),document.querySelector("[id$='__qr-code']")&&document.querySelector("[id$='__qr-code']").setAttribute("onclick","esim_popup()")}esim_url(),jQuery(window).on("load resize",function(e){console.log("load resize jQuery ready!"),loadResize(),priceResize(),esim_url(),setTimeout(function(){esim_url()},250)});function randomWholeNumber(min,max){number=Math.floor(Math.random()*(max-min+1)+min);for(let i=0;i<10&&number==max+1;i++)number=Math.floor(Math.random()*(max-min)+min+1)-1;return number}var table_id="",rowsTable=[];function destinationsTable(){$(".boost-table-wrap").each(function(index){table_id="boost-table-wrap-"+index,$(this).attr("data-table-number",index),$(this).attr("id",table_id),table_id="#"+table_id,console.log(table_id),$(table_id).load("//cdn.shopify.com/s/files/1/0490/0896/7844/files/"+$(table_id).attr("data-table")+".txt",function(){table_id="#"+$(this).attr("id"),index=$(this).attr("data-table-number"),$(table_id+" .boost-table-input").attr("data-table-number",index),console.log(table_id),$(table_id+" tbody tr").addClass("row-show"),$(table_id+" .row-show:even").addClass("row-even"),rowsTable[index]=$(table_id+" .boost-table tbody tr"),console.log("rowsTable: "+rowsTable),$(table_id+" .boost-table-input").keyup(function(){index=$(this).attr("data-table-number");var valInput=$.trim($(this).val()).replace(/ +/g," ").toLowerCase();rowsTable[index].css("background-color","").removeClass("row-even").removeClass("dn").addClass("row-show").filter(function(){var textSearch=$(this).text().replace(/\s+/g," ").toLowerCase(),current=$(this);return!~textSearch.indexOf(valInput)}).removeClass("row-even").removeClass("row-show").addClass("dn"),table_id="#boost-table-wrap-"+index,$(table_id+" .row-show:even").addClass("row-even"),console.log("key table_id: "+table_id)})})})}function setCookie(key,value,expiry){var expires=new Date;expires.setTime(expires.getTime()+expiry*24*60*60*1e3),document.cookie="___"+key+"="+value+";expires="+expires.toUTCString()+";domain=boost.com.au;path=/;SameSite=Lax",window.dataLayer.push({event:"cookie_"+key+"_"+value})}function getCookie(cname){let name="___"+cname+"=",ca=decodeURIComponent(document.cookie).split(";");for(let i=0;i<ca.length;i++){let c=ca[i];for(;c.charAt(0)==" ";)c=c.substring(1);if(c.indexOf(name)==0)return window.dataLayer.push({event:"cookie_g_"+cname+"_"+c.substring(name.length,c.length)}),c.substring(name.length,c.length)}return""}var audience_split=getCookie("audience_split");audience_split==""?(console.log("splitting"),audience_split=randomWholeNumber(0,1),audience_split==0?audience_split="a":audience_split==1&&(audience_split="b"),setCookie("audience_split",audience_split,1),$("body").addClass("audience-"+audience_split),window.dataLayer.push({event:"AudienceSplit_"+audience_split})):(console.log("split already"),$("body").addClass("audience-"+audience_split),window.dataLayer.push({event:"AudienceSplit_"+audience_split}));var audience_test=getCookie("audience_test");audience_test==""?(console.log("splitting test"),audience_test=randomWholeNumber(0,1),audience_test==0?audience_test="a":audience_test==1&&(audience_test="b"),setCookie("audience_test",audience_test,1),$("body").addClass("audience-test-"+audience_test),window.dataLayer.push({event:"AudienceTest_"+audience_test})):(console.log("split test already"),$("body").addClass("audience-test-"+audience_test),window.dataLayer.push({event:"AudienceTest_"+audience_test})),$("#shopify-section-boost-button-group a:contains('RECHARGE')").on("click",function(e){setCookie("recharged","yes",365)});var boost_recharged=getCookie("recharged"),boost_recharge_complete=getCookie("recharge");boost_recharged=="yes"||boost_recharge_complete=="complete"?$("body").addClass("recharged-yes"):$("body").addClass("recharged-no"),location.hostname!="boost.com.au"&&location.hostname!="refurbished.boost.com.au"&&($(".section-promo").each(function(){$(this).prepend('<div class="boost-audience-label tac"><span>AUDIENCE TYPE: '+$(this).attr("data-audience")+"</span></div>")}),$("body").addClass("recharged-yes").addClass("recharged-no").addClass("audience-a").addClass("audience-b"));function searchToggle(){document.querySelector("body").classList.toggle("search-enabled"),document.getElementById("search").focus()}
+//# sourceMappingURL=/cdn/shop/t/331/assets/boost.js.map?v=141090372210904010511723654140

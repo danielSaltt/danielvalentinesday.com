@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://boost.com.au/blogs/help-topics.atom</id>
+  <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics"/>
+  <link rel="self" type="application/atom+xml" href="https://boost.com.au/blogs/help-topics/tagged/getting-started.atom"/>
+  <title>Boost Mobile Australia - Help Topics</title>
+  <updated>2024-02-14T06:46:40+11:00</updated>
+  <author>
+    <name>Boost Mobile Australia</name>
+  </author>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/where-to-go-for-help-support</id>
+    <published>2021-12-03T17:19:11+11:00</published>
+    <updated>2021-12-03T17:20:45+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/where-to-go-for-help-support"/>
+    <title>Where to go for Help &amp; Support</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>Where to go for Help &amp; Support</h1>
+<p>If you have a question, chances are someone else has a similar one.</p>
+<p>Check out our <a href="https://boost.com.au/pages/help-topics" title="Boost FAQs">FAQs</a> , <a href="https://refurbished.boost.com.au/pages/frequently-asked-questions" title="Refurbished FAQs">Refurbished FAQs</a>, or our <a href="https://boost.com.au/pages/get-help" title="Help &amp; Support Blog">Help &amp; Support articles.</a></p>
+<p>Or you can get it touch using of the following methods:</p>
+<ul>
+<li>Chat to us on <a href="https://www.facebook.com/boostaus" target="_blank" title="Boost Mobile Australia Facebook" rel="noopener noreferrer">Facebook</a> - available 24/7</li>
+<li>Message Us - available 7am-11pm AEST, 7 days</li>
+<li>Call us on 1800 100 933 - available 8am-8pm AEST, 7days </li>
+</ul>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/boost-id</id>
+    <published>2021-12-03T15:49:06+11:00</published>
+    <updated>2023-11-16T11:14:39+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/boost-id"/>
+    <title>Username and Password - Help and Support - Boost Mobile</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1><span data-mce-fragment="1">What is my username and password?</span></h1>
+<p><strong><span data-mce-fragment="1">Formerly known as a Boost ID, your Boost username and password are used to access and manage your Boost service.</span></strong></p>
+<p>Your username is the email address you used to activate your Boost service with us. It enables you to securely access and manage specific features in the app, such as:<br data-mce-fragment="1"><br>- Set up and manage auto recharge<br data-mce-fragment="1">- Save and manage your credit / debit card details<br data-mce-fragment="1">- Manage multiple services<br data-mce-fragment="1">- View your usage history<br data-mce-fragment="1">- View your recharge history</p>
+<h3>How to recover username in the My Boost Mobile app:</h3>
+<p>1. Open the My Boost Mobile app and tap the black "Sign in" button at the bottom of the screen.<br>2. Tap "Recover username" under the username text field.<br>3. Choose how you want to recover the username by selecting email address or Boost mobile number.<br>4. Tap the black "Let's get started" button. <br>5. Now enter your email address. <br>6. You should receive an email from us shortly with you username. If you can't find it in your inbox, please check your junk mail.<br>7. Tap the sign in button.</p>
+<h3>How do I reset my password?</h3>
+<p>When prompted, enter your username in the box provided, and click Send. <br data-mce-fragment="1"><br data-mce-fragment="1">An email will be sent with a link to reset your password. Simply click on the link and follow the prompts.<br data-mce-fragment="1"><br>Now you're good to go! You can sign into the My Boost Mobile app and access the additional features.<br data-mce-fragment="1"><br></p>
+<ol></ol>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/manage-your-service</id>
+    <published>2021-12-01T12:32:15+11:00</published>
+    <updated>2024-03-26T15:37:45+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/manage-your-service"/>
+    <title>Manage your service - Help and Support - Boost Mobile</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How to manage your service</h1>
+<p><strong>The easiest way to manage your service is in the My Boost Mobile app and online.</strong></p>
+<p>With the My Boost Mobile app you can recharge, set up auto recharge, check you balance, see your usage &amp; recharge history, get help and more. </p>
+<p>My Boost Mobile is available for <a href="https://apps.apple.com/au/app/my-boost-mobile/id1536871973" title="My Boost Mobile App iOS" target="_blank">iOS</a> and <a href="https://play.google.com/store/apps/details?id=com.boost.mobile.myboost" title="My Boost Mobile app Android" target="_blank">Android</a> and is for customers on the Boost Mobile Prepaid Plan. </p>
+<p>You can also recharge on our website by <a href="https://myaccount.boost.com.au/" title="sign in">signing in</a> or using our online<a href="https://boost.com.au/enternumber" title="Quick recharge"> recharge</a> option. </p>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/bring-my-number</id>
+    <published>2021-03-16T11:40:39+11:00</published>
+    <updated>2021-12-20T12:05:57+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/bring-my-number"/>
+    <title>Transfer Your Number to Boost</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How do I bring my number to Boost?</h1>
+<p><strong>Transferring your number to Boost Mobile service is easy. </strong></p>
+<p>Simply head to <a href="https://prepaid.activate.boost.com.au" target="_blank" rel="noopener noreferrer"><u>activate</u></a> and choose ‘keep existing number'. You do not need to contact your previous provider. We’ll sort that out with them.</p>
+<p><strong>Please keep your old SIM in your phone until you’ve completed the activation form, </strong>as you’ll be sent an SMS to verify you have access to the phone number that is being transferred.</p>
+<p>Your number should be active on Boost Mobile within 4 to 24 hours after activating. If you make a request outside business hours, including Sundays and public holidays, we’ll process it on the next business day. You can still use the number with your previous provider until the switch to us is complete.</p>
+<p>If your number has not moved across to Boost within 24 hours or you experience issues during the porting process, Message us <a href="https://boost.com.au/pages/get-help" title="Help">here</a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/activate-your-sim</id>
+    <published>2021-03-16T11:39:50+11:00</published>
+    <updated>2023-12-11T15:06:10+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/activate-your-sim"/>
+    <title>Boost Mobile Activation: Activate Your SIM</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How do I activate my SIM?</h1>
+<p><span><strong>You can activate your SIM using your existing number or we’ll give you a new one.</strong></span></p>
+<p><strong>Before you start, you’ll need:</strong></p>
+<ul>
+<li>Your SIM serial number - you can find this on the back of your SIM pack</li>
+<li>One valid form of ID - Australian driver’s license or learner’s permit, Medicare card, Australian passport, International passport with valid Australian visa</li>
+</ul>
+<p><strong>To activate your SIM</strong></p>
+<p>Simply head to <a href="https://prepaid.activate.boost.com.au" target="_blank"><u>activate</u></a> and follow the steps.</p>
+<p>If you wish to keep your existing number simply select “Keep existing number” during the activation process. You’ll be sent an SMS to verify you have access to the phone number that is being transferred.</p>
+<p><strong>Please keep your old SIM in your phone until you’ve completed the activation form.</strong></p>
+<p> </p>
+<p>When you’ve completed the activation form you’ll receive an SMS and email to confirm your activation is underway.</p>
+<p>Your number should be active within 4 to 24 hours after activating.  If you make a request outside business hours, including Sundays and public holidays, we’ll process it on the next business day. If you are keeping your existing number, you can still use the number with your previous provider until the switch to us is complete.</p>
+<p>When your Boost SIM is active, you’ll receive an SMS or email notification letting you know that your Boost Mobile service is ready to use. Learn how to manage your service <a href="https://boost.com.au/hello"><u>here</u></a>.</p>
+<p> </p>
+<p>If your Boost SIM has not been activated within 24 hours, please <a href="https://boost.com.au/get-help/"><u>Message us</u></a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/set-up-or-change-voicemail</id>
+    <published>2021-03-16T11:30:33+11:00</published>
+    <updated>2021-12-20T12:08:49+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/set-up-or-change-voicemail"/>
+    <title>Setup Voicemail or MessageBank</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How do I set up and change my MessageBank or Voicemail?</h1>
+<p><strong>How to set up MessageBank®</strong></p>
+<ol>
+<li>Call 101 from your mobile</li>
+<li>Follow the prompts to set up your personal greeting and MessageBank PIN</li>
+</ol>
+<p><strong>MessageBank Diversion</strong></p>
+<p>You can alter how long your phone rings before being diverted to MessageBank. To divert calls after:</p>
+<ul>
+<li> 30 seconds, dial *61*101**30#</li>
+<li>15 seconds, dial *61*101**15#</li>
+<li>5 seconds, dial *61*101**5#</li>
+</ul>
+<p><strong>How to activate or cancel hang-up messages</strong></p>
+<p>Hang-up messages are missed call notifications that send you an SMS when the caller hangs up after your greeting plays.</p>
+<p>To activate or cancel hang-up messages:</p>
+<ol>
+<li>Call 101 from your Boost mobile</li>
+<li>Press 3 for ‘Mailbox Setup’</li>
+<li>Press 5 for ‘Other Mailbox Options’</li>
+<li>Press 6 for ‘Hang-up Messages’</li>
+<li>Follow the prompts to turn on or off</li>
+</ol>
+<p><strong>How to extend your ring time</strong></p>
+<ol>
+<li>On your Boost mobile dial **61*101** (number of seconds: 15, 20, 25 or 30) #</li>
+<li>Press the Call/Send button</li>
+</ol>
+<p>(For example, to extend your ring time to 30 seconds, you would dial **61*101**30#)</p>
+<p><strong>How to change your personal greeting</strong></p>
+<p>To change your personal greeting, follow the steps below:</p>
+<ol>
+<li>Call 101</li>
+<li>After listening to your messages, return to the MessageBank® main menu</li>
+<li>Press 3 for ‘Mailbox Setup’</li>
+<li>Press 1 for ‘Greetings’</li>
+<li>Press 1 to re-record your personal greeting</li>
+</ol>
+<p>If you have difficulties managing your MessageBank® service call 125 102, enter your mobile phone number and follow the prompts.</p>
+<p><strong>How to cancel MessageBank</strong></p>
+<ol>
+<li>Dial #002# from your Boost mobile and press Call/Send</li>
+<li>Your mobile phone will display a message confirming MessageBank has been cancelled.</li>
+</ol>
+<p>When MessageBank® is cancelled, Message2Text will automatically be enabled. Message2text converts a 10 second voice message directly to a text message, without you having to dial 101.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/divert-to-voicemail</id>
+    <published>2021-03-16T11:29:43+11:00</published>
+    <updated>2021-12-20T12:06:30+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/divert-to-voicemail"/>
+    <title>Divert Calls to Voicemail</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1 class="center">How do I divert calls to Voicemail?</h1>
+<p><strong>To divert calls to Voicemail:</strong></p>
+<ul>
+<li>When unreachable, dial *62*101#</li>
+<li>When busy, dial *67*101#</li>
+</ul>
+<p><strong>To cancel the divert to Voicemail:</strong></p>
+<ul>
+<li>When unanswered, dial #61#</li>
+<li>When unreachable, dial #62#</li>
+<li>When busy, dial #67#</li>
+<li>To cancel MessageBank and enable Message2Txt, dial #002#</li>
+</ul>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/purchase-a-sim</id>
+    <published>2021-03-16T11:23:32+11:00</published>
+    <updated>2023-07-18T12:02:57+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/purchase-a-sim"/>
+    <title>Purchase a SIM: Find a Boost Retailer</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How do I purchase a SIM?</h1>
+<p><strong>There are two ways to get your hands on a Boost SIM:</strong></p>
+<ol>
+<li>In our online<span> </span><a href="https://boost.com.au/shop/">shop</a>
+</li>
+<li>At your local<span> </span><a href="https://boost.com.au/find-a-store/">Boost Retailer</a>
+</li>
+</ol>
+<p><strong>Boost stock a range of SIM cards with different values and expiry periods. To get started you can either:</strong><br>- Purchase a<span> </span><a href="https://boost.com.au/shop/2-prepaid-sim-card/">$2 starter SIM</a><span> </span>and then recharge with the prepaid plan that suits you<br>- Purchase a 28 day or long expiry SIM which has your first recharge already included</p>
+<p>Check out our<span> </span><a href="https://boost.com.au/plans/">prepaid plans</a><span> </span>to find the right one for you.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/coverage</id>
+    <published>2021-03-16T11:17:28+11:00</published>
+    <updated>2023-07-18T13:38:51+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/coverage"/>
+    <title>Boost Mobile Coverage</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>What coverage do I get with Boost Mobile?</h1>
+<p><strong>Boost Mobile is on the full Telstra mobile Network providing coverage to 99.4% of the population and covering more than 2.6million square kilometres – that’s 1 million square kilometres more than any other mobile network.  Check out our <a href="https://boost.com.au/coverage-map/">coverage map</a> to see the coverage in your area.</strong></p>
+<p><br>If you believe there is an outage in your area you can check it <a href="https://outages.telstra.com.au/#/mobile?pageSource=home" target="_blank" title="Service Status Tool" rel="noopener noreferrer">here</a>.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/sim-card-size</id>
+    <published>2021-03-16T11:11:30+11:00</published>
+    <updated>2021-12-20T12:19:35+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/sim-card-size"/>
+    <title>SIM Card Size: What Do You Need?</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<h1>What SIM card size do I need?</h1>
+<p><strong>There are three different SIM card sizes for phones: Standard, Micro and Nano.</strong></p>
+<p>The best way to find out the size of your SIM is on the packaging your phone came in or the website for your phone type. Here are some general tips that might help you:</p>
+<p><strong>Standard SIM</strong> – will fit most feature phones</p>
+<p><strong>Micro SIM</strong> – will fit most Android or Windows phones (including iPhone 4/4S, Samsung Galaxy S4 and Samsung Galaxy S5)</p>
+<p><strong>Nano SIM</strong> – will fit most iPhones (eg. iPhone 5 and iPhone 6 Plus)</p>
+<p><strong>All Boost SIM packs contain Trio SIMs</strong></p>
+<p>﻿Trio SIMs can be used for all SIM card sizes - simply pop out the SIM size you need.</p>]]>
+    </content>
+  </entry>
+</feed>

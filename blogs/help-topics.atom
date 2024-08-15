@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://boost.com.au/blogs/help-topics.atom</id>
+  <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics"/>
+  <link rel="self" type="application/atom+xml" href="https://boost.com.au/blogs/help-topics.atom"/>
+  <title>Boost Mobile Australia - Help Topics</title>
+  <updated>2024-02-14T06:46:40+11:00</updated>
+  <author>
+    <name>Boost Mobile Australia</name>
+  </author>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/esim-transfer-or-restore-esim-is-missing</id>
+    <published>2024-02-14T06:46:40+11:00</published>
+    <updated>2024-02-14T11:57:26+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/esim-transfer-or-restore-esim-is-missing"/>
+    <title>eSIM: Transfer or restore eSIM is missing</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1 data-mce-fragment="1"><strong>Why can’t I see the ‘Transfer or restore eSIM’ option?</strong></h1>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">If your Boost Mobile service is listed in the</span> <a data-mce-fragment="1" href="https://boost.com.au/pages/my-boost-mobile-app?_pos=1&amp;_sid=165c127b0&amp;_ss=r" data-mce-href="https://boost.com.au/pages/my-boost-mobile-app?_pos=1&amp;_sid=165c127b0&amp;_ss=r"><b data-mce-fragment="1">My Boost Mobile app</b></a><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> on an eSIM-enabled device, go to </span><b data-mce-fragment="1">Get help &gt; select your service &gt; set up or manage eSIM.</b></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">If Transfer or restore eSIM isn’t there, check the following:</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">
+<span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Only the owner of the Boost Mobile account for the mobile service will have the </span><b data-mce-fragment="1">Transfer or restore eSIM</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> option in the My Boost Mobile app. If the account owner has added you as a full authority contact, please </span><a data-mce-fragment="1" href="https://boost.com.au/pages/get-help" data-mce-href="https://boost.com.au/pages/get-help"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">contact us</span></a><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> for further assistance. </span>
+</li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">
+<span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">The app may need to be refreshed, even if you have the latest version. Try updating, or removing and re-installing the My Boost Mobile app on your device. If </span><b data-mce-fragment="1">Transfer or restore eSIM</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> still doesn’t appear, please </span><a data-mce-fragment="1" href="https://boost.com.au/pages/get-help" data-mce-href="https://boost.com.au/pages/get-help"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">contact us</span></a><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> for further assistance.</span>
+</li>
+</ul>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/esim-activation-issues</id>
+    <published>2024-02-14T06:46:29+11:00</published>
+    <updated>2024-03-26T10:03:49+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/esim-activation-issues"/>
+    <title>eSIM: activation issues - Boost Mobile</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1 data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><strong>I’ve downloaded my eSIM profile, but my service isn’t working</strong> </span></h1>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">In some cases, activation may take up to four hours. In most cases your service will be ready to use within a few minutes.<br><br>To connect to Boost Mobile network, try restarting your device, or switching flight mode on and off.</span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/esim-transfer</id>
+    <published>2024-02-14T06:46:19+11:00</published>
+    <updated>2024-02-14T12:00:51+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/esim-transfer"/>
+    <title>eSIM: Errors transferring eSIM to a new iPhone</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1><strong>What if I see an error when transferring from my current iPhone to eSIM on a new iPhone?</strong></h1>
+<p>If you're transferring your existing Boost Mobile service to a new iPhone, you may see an error message stating that your number can't be transferred. To complete the transfer, finish setting up your new iPhone and use the <strong>Transfer or restore eSIM</strong> feature in the <a href="https://boost.com.au/pages/my-boost-mobile-app">My Boost Mobile App</a> on your new phone.</p>
+<p>You can find this in the services section of the app or in the get help section. </p>
+<p>In the get help section, select your service, scroll down and select set up or manage eSIM.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/what-if-i-see-an-error-when-i-try-to-transfer-or-restore-an-esim</id>
+    <published>2024-02-14T06:46:08+11:00</published>
+    <updated>2024-02-14T12:00:31+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/what-if-i-see-an-error-when-i-try-to-transfer-or-restore-an-esim"/>
+    <title>eSIM: Errors when transfering or restoring an eSIM</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1 data-mce-fragment="1"><strong>What if I see an error when I try to transfer or restore an eSIM?</strong></h1>
+<p data-mce-fragment="1">If you experience an error when trying to transfer or restore an eSIM, you may be asked to try again later. If this happens more than four times in 24 hours, <a href="https://boost.com.au/pages/get-help">please contact us</a> for further assistance.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/can-an-esim-be-damaged</id>
+    <published>2024-02-14T06:45:59+11:00</published>
+    <updated>2024-03-26T10:02:37+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/can-an-esim-be-damaged"/>
+    <title>eSIM: Can an eSIM be damaged? - Boost Mobile</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1><strong>Can an eSIM be damaged?</strong></h1>
+<p>It's unlikely. Unlike a removable physical SIM card, eSIM components are built into your phone. Physical damage is rare and less common than damage to a physical SIM.<br> <br data-mce-fragment="1">If your service has stopped working, try restoring your eSIM profile in the <a href="https://boost.com.au/pages/my-boost-mobile-app?_pos=1&amp;_sid=165c127b0&amp;_ss=r">My Boost Mobile App</a>.</p>
+<p>To do this, jump onto the My Boost Mobile app, tap the service you want to switch, scroll down to the bottom and tap ‘Transfer or restore eSIM’. From here, simply follow the prompts throughout the restore flow. </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/how-do-i-remove-the-esim-profile-from-my-device</id>
+    <published>2024-02-14T06:45:49+11:00</published>
+    <updated>2024-02-14T12:00:04+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/how-do-i-remove-the-esim-profile-from-my-device"/>
+    <title>eSIM: Removing an eSIM profile</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1 data-mce-fragment="1"><b data-mce-fragment="1">How do I remove the eSIM profile from my device?<br></b></h1>
+<p><span style="font-weight: 400;">You can remove a digital eSIM profile from a device before disposing, reselling or trading in the device. A profile can be restored any time using the </span><a href="https://boost.com.au/pages/my-boost-mobile-app?_pos=1&amp;_sid=165c127b0&amp;_ss=r"><span style="font-weight: 400;">My Boost Mobile App</span></a><span style="font-weight: 400;">, but you can't remove it remotely.</span></p>
+<p><b>Important:</b></p>
+<p><span style="font-weight: 400;">Removing your eSIM profile from a device does not cancel a service or charges. </span><a href="https://boost.com.au/pages/get-help"><span style="font-weight: 400;">Contact us</span></a><span style="font-weight: 400;"> if you wish to cancel your service.</span></p>
+<p><b>To remove an eSIM profile from your device</b></p>
+<ol>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Go to </span><b>Settings</b>
+</li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Choose </span><b>Mobile Data</b><span style="font-weight: 400;"> or </span><b>Network &amp; Internet, </b><span style="font-weight: 400;">depending on your phone</span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Select the SIM or service you want to remove</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Go to </span><b>Remove Mobile Data Plan</b><span style="font-weight: 400;"> or </span><b>Erase SIM</b><span style="font-weight: 400;">, depending on your phone.</span>
+</li>
+</ol>
+<p><span style="font-weight: 400;">Steps may vary based on your operating system, so check the device manufacturer’s instructions.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1"><br></b></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/esim-my-phone-needs-to-be-repaired</id>
+    <published>2024-02-14T06:45:00+11:00</published>
+    <updated>2024-02-14T11:59:39+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/esim-my-phone-needs-to-be-repaired"/>
+    <title>eSIM: My phone needs to be repaired</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1 data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 600;" data-mce-style="font-weight: 600;"><strong>What if my phone needs to be repaired?</strong><br></span></h1>
+<p><span style="font-weight: 400;">If your device needs repair, you can transfer your service to an eSIM-enabled replacement device using the </span><a href="https://boost.com.au/pages/my-boost-mobile-app"><b>My Boost Mobile App</b></a><span style="font-weight: 400;"> from the replacement phone.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 600;" data-mce-style="font-weight: 600;"> </span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/esim-connectivity-issues</id>
+    <published>2024-02-14T06:44:49+11:00</published>
+    <updated>2024-03-26T10:02:12+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/esim-connectivity-issues"/>
+    <title>eSIM: Connectivity issues - Boost Mobile</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>I’m having connectivity issues, is it because I’m using eSIM?</h1>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Network coverage, the speed and quality of your mobile network connection are not influenced by SIM type. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">SIM faults can occur but are less likely in eSIM due to protection from exposure and handling. Any connectivity issues are likely to be temporary or based on other factors.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">To check if service disruptions may be impacting your service, </span><a data-mce-fragment="1" href="https://www.telstra.com.au/outages" data-mce-href="https://www.telstra.com.au/outages"><b data-mce-fragment="1">check for outages.</b></a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/esim-lost-esim-device</id>
+    <published>2024-02-14T06:44:34+11:00</published>
+    <updated>2024-03-26T10:03:27+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/esim-lost-esim-device"/>
+    <title>eSIM: I lost my eSIM device - Boost Mobile</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1><strong>What should I do if my eSIM-enabled device is lost or stolen?<br></strong></h1>
+<p><span style="font-weight: 400;">If your device has been lost or stolen, please </span><a href="https://boost.com.au/pages/get-help"><b>contact us</b></a><b> </b><span style="font-weight: 400;">to suspend your service immediately.  </span></p>
+<p><span style="font-weight: 400;">After identifying you as an authorised person, we can block your mobile service and device from being used on any Australian mobile network. The suspension can be immediately lifted by contacting us if your phone is returned. </span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/how-do-i-restore-my-service-if-my-esim-profile-has-been-deleted-or-is-missing</id>
+    <published>2024-02-14T06:44:13+11:00</published>
+    <updated>2024-03-26T10:02:59+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/how-do-i-restore-my-service-if-my-esim-profile-has-been-deleted-or-is-missing"/>
+    <title>eSIM: restoring eSIM profile - Boost Mobile</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1><span style="font-weight: 400;" data-mce-style="font-weight: 400;"><strong>How do I restore my service if my eSIM profile has been deleted or is missing?</strong><br></span></h1>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;"><br>You can restore your service and eSIM profile in the <a href="https://boost.com.au/pages/my-boost-mobile-app?_pos=1&amp;_sid=165c127b0&amp;_ss=r" data-mce-fragment="1" data-mce-href="https://boost.com.au/pages/my-boost-mobile-app?_pos=1&amp;_sid=165c127b0&amp;_ss=r"><b data-mce-fragment="1">My Boost Mobile App</b></a> on your eSIM-enabled device. In some cases, the restored profile activation can take up to four hours.<br><br>In the </span><a href="https://boost.com.au/pages/my-boost-mobile-app" data-mce-href="https://boost.com.au/pages/my-boost-mobile-app"><b>My Boost Mobile  app</b></a></p>
+<ol>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;">
+<span style="font-weight: 400;" data-mce-style="font-weight: 400;">Sign in to </span><a href="https://boost.com.au/pages/my-boost-mobile-app" data-mce-href="https://boost.com.au/pages/my-boost-mobile-app"><b>My Boost Mobile</b></a> <span style="font-weight: 400;" data-mce-style="font-weight: 400;"> in a browser with your Boost Mobile username and password</span>
+</li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;">
+<span style="font-weight: 400;" data-mce-style="font-weight: 400;">Choose </span><b>Get help</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> and click your service number.</span>
+</li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;">
+<span style="font-weight: 400;" data-mce-style="font-weight: 400;">Select </span><b>Set up or manage eSIM</b>
+</li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;">
+<span style="font-weight: 400;" data-mce-style="font-weight: 400;">Choose </span><b>Transfer or restore eSIM</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;">. If the option doesn't appear, either you don’t have an existing Boost Mobile service to manage, or your device is not eSIM compatible.</span>
+</li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">To reconnect, restart the device or switch flight mode on and off.</span></li>
+</ol>
+<p><b>Important:</b></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">If you can’t receive a Boost Mobile PIN by email or SMS, please </span><a href="https://boost.com.au/pages/get-help" data-mce-href="https://boost.com.au/pages/get-help"><b>contact us</b></a><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> for further assistance.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">The </span><b>Transfer or restore eSIM</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> feature will be blocked for 24 hours after a series of unsuccessful attempts. </span><a href="https://boost.com.au/pages/get-help" data-mce-href="https://boost.com.au/pages/get-help"><b>Contact us</b> </a><span style="font-weight: 400;" data-mce-style="font-weight: 400;">for further assistance.</span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/esim-switching-from-physical-sim</id>
+    <published>2024-02-14T06:43:44+11:00</published>
+    <updated>2024-02-14T11:58:41+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/esim-switching-from-physical-sim"/>
+    <title>eSIM: Switching from a physical SIM to an eSIM</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1 data-mce-fragment="1">
+<strong>Can I switch my physical SIM card to an eSIM, and vice versa?</strong><b data-mce-fragment="1"><br></b>
+</h1>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">You can switch your existing Boost Mobile service between a physical SIM and eSIM at any time without charge from the </span><a href="https://boost.com.au/pages/my-boost-mobile-app?_pos=1&amp;_sid=165c127b0&amp;_ss=r"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">My Boost Mobile App</span></a><span style="font-weight: 400;" data-mce-style="font-weight: 400;">.</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"><br></span></p>
+<p><strong>Switch from physical SIM card to eSIM</strong></p>
+<p>With all things eSIM, your phone needs to be compatible.</p>
+<p>Then all you need to do is jump onto the <a title="https://boost.com.au/pages/my-boost-mobile-app" href="https://boost.com.au/pages/my-boost-mobile-app" data-mce-href="https://boost.com.au/pages/my-boost-mobile-app">My Boost Mobile app,</a> and there two different ways to do it within the app.</p>
+<p><strong>Services tab</strong></p>
+<ol>
+<li>On the services homepage, tap the service you want to switch</li>
+<li>Scroll down to the bottom and tap ‘Transfer or restore eSIM’.</li>
+<li>Follow the prompts and you'll be binning your SIM card in no time.</li>
+</ol>
+<p><strong>Get help</strong></p>
+<ol>
+<li>Tap Get help and select your service number</li>
+<li>Select set up or manage eSIM</li>
+<li>From here, we'll guide you through the process and you'll be physical SIM-less in a few minutes.</li>
+</ol>
+<p> </p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">If you can’t access the app, </span><a href="https://boost.com.au/pages/get-help"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">contact us</span></a><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> for assistance.</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"><br><br></span></p>
+<p><b>Switch from eSIM to physical SIM card</b></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">To switch back to a physical SIM card, you’ll need to order a replacement SIM. See </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"><a href="/blogs/help-topics/replacement-sim">H</a><a title="replacement SIM" href="https://boost.com.au/blogs/help-topics/replacement-sim">ow do I get a replacement SIM</a></span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> for more information on how to order a replacement.</span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/nestcalling</id>
+    <published>2023-07-31T13:09:28+10:00</published>
+    <updated>2023-07-31T13:10:09+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/nestcalling"/>
+    <title>Changes to Google Voice Activated Calling</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>Changes to Google Voice Activated Calling</h1>
+<p><strong>From 26 September 2023, Google Voice Activated Calling will no longer be supported by Google. We'll disable it for customers from 15 September 2023.</strong></p>
+<p>No Google Home or Google Nest devices will support Google Voice Activated Calling. This includes:</p>
+<ul>
+<li>
+<strong>Speakers:</strong> Google Home, Google Nest Mini (2nd gen), Google Home Mini (1st gen), Google Home Max, Google Nest Audio, Google Nest Wifi point.</li>
+<li>
+<strong>Displays:</strong> Google Nest Hub and Google Nest Hub Max.</li>
+</ul>
+<h3><span><br>Frequently asked questions:</span></h3>
+<p><strong>1. Why is the Google Voice Activated Calling feature no longer available?</strong></p>
+<p><span>From time-to-time Google and their partners may add or remove features. At this time, it has been determined that Google will remove the ability to make and receive calls through all phone service partners. Therefore, Telstra is no longer able to offer this feature.</span></p>
+<p><strong>2. How do I enable or disable voice-activated calling before 15 September?</strong></p>
+<meta charset="UTF-8">
+<p>We removed the ability to enable this feature after 29 May 2023. Anyone who signed up before then can keep using it until 15 September 2023.</p>
+<p>You can disable it any time through the Call Providers settings in your Google Home app. From there, select <strong>Unlink </strong>under your Telstra mobile number.</p>
+<p><strong>3. How else can I make calls from my Google Home or Nest?</strong></p>
+<meta charset="UTF-8">
+<p><span>Google Home and Nest devices still support the ability to make calls through services like </span><a href="https://meet.google.com/">Google Meet</a><span>.</span></p>
+<p><strong>4.  Will emergency calling (000) still work once voice-activated calling is removed?</strong></p>
+<p>No. You won’t be able to call 000 from your Google Home or Nest device once this feature is removed.</p>
+<p><strong>5. Do I need to do anything once Google Voice Activated Calling is removed?</strong></p>
+<p><span>No. Voice-activated calling will continue to work until 15 September 2023. It will then be removed automatically and links between Google and Telstra will be deleted securely.</span></p>
+<p><strong>6. Will there be any notification on my Google Nest device when voice-activated calling is removed?</strong></p>
+<meta charset="UTF-8">
+<p><span>No. Your Google Home or Nest device won’t provide a notification when the feature is no longer active.</span></p>
+<p><strong>7. Will I be charged for using Google Voice Activated Calling?</strong></p>
+<p><span>No. It was free to set up and calls are made at no additional cost on the existing mobile plan of eligible Telstra mobile customers.</span></p>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/data-free-music-streaming-apple-music</id>
+    <published>2023-07-24T14:35:07+10:00</published>
+    <updated>2023-07-24T14:35:07+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/data-free-music-streaming-apple-music"/>
+    <title>Stream Apple Music data free</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>Can I stream Apple Music data free?</h1>
+<p>Boost Mobile no longer offers Data Free streaming with Apple Music.</p>
+<p>To find out more about what is included in our plans, click <a href="https://boost.com.au/pages/prepaid-plans" target="_blank" title="Prepaid Plans" rel="noopener noreferrer">here</a>.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/network-speeds</id>
+    <published>2023-01-13T08:33:31+11:00</published>
+    <updated>2023-12-06T15:22:47+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/network-speeds"/>
+    <title>5G Plans and Download Speeds</title>
+    <author>
+      <name>Dhani Miles</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>5G Enabled Plans and Download Speeds</h1>
+<h2>5G network access included</h2>
+<p>5G network access is now available as standard on all of our plans and download speeds are capped on our 4G and 5G networks as follows:</p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 117.703px;"><strong style="background-color: #ffffff;">Recharge</strong></td>
+<td style="width: 153.773px;"><strong style="background-color: #ffffff;">Expiry Period</strong></td>
+<td style="width: 258.023px;"><strong style="background-color: #ffffff;">Download speed up to</strong></td>
+</tr>
+<tr>
+<td style="width: 117.703px;"><span style="background-color: #ffffff;">$5-$15</span></td>
+<td style="width: 153.773px;"><span style="background-color: #ffffff;">7 days</span></td>
+<td style="width: 258.023px;"><span style="background-color: #ffffff;">150Mps</span></td>
+</tr>
+<tr>
+<td style="width: 117.703px;"><span style="background-color: #ffffff;">$22-$45</span></td>
+<td style="width: 153.773px;"><span style="background-color: #ffffff;">28 days</span></td>
+<td style="width: 258.023px;"><span style="background-color: #ffffff;">150Mps</span></td>
+</tr>
+<tr>
+<td style="width: 117.703px;"><span style="background-color: #ffffff;">$55</span></td>
+<td style="width: 153.773px;"><span style="background-color: #ffffff;">28 days</span></td>
+<td style="width: 258.023px;"><span style="background-color: #ffffff;">250Mps</span></td>
+</tr>
+<tr>
+<td style="width: 117.703px;"><span style="background-color: #ffffff;">$70</span></td>
+<td style="width: 153.773px;"><span style="background-color: #ffffff;">28 days</span></td>
+<td style="width: 258.023px;"><span style="background-color: #ffffff;">Uncapped</span></td>
+</tr>
+<tr>
+<td style="width: 117.703px;"><span style="background-color: #ffffff;">$230-$365</span></td>
+<td style="width: 153.773px;"><span style="background-color: #ffffff;">12 months</span></td>
+<td style="width: 258.023px;"><span style="background-color: #ffffff;">150Mps</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h2>Download Speed FAQs</h2>
+<p><strong>What does the capped download speed mean for me?</strong></p>
+<p>As all speed cap options are great for video streaming, browsing, social media and hot-spotting a single device you should be able to continue doing what you usually do, and enjoy the same or similar mobile experience you do today. If you need to hot-spot multiple devices, or regularly transfer large files, you may benefit from uncapped download speeds. Your capped download speed is the maximum potential download speed for data included in your recharge. Typical speeds may often be slower and will vary due to factors such as location, distance from the base station, local conditions, concurrent users, hardware and software configuration and download/upload destination. 5G is rolling out in selected areas and available with a compatible device. <a href="/coverage">Check 5G coverage in your area.</a></p>
+<p> </p>
+<p><strong>How do I test what speeds I’m getting on 5G?</strong></p>
+<p><a href="https://www.speedtest.net/apps">Test your mobile connection and speed performance. </a>Your data allowance will not be impacted by this test. Please make sure Wi-Fi is turned off when testing. To access 5G, you’ll need a 5G compatible device in a 5G coverage area.</p>
+<p><strong>How do I access 5G?</strong></p>
+<p>You need three things to access 5G:</p>
+<ul>
+<li>An active prepaid recharge</li>
+<li>A 5G compatible device</li>
+<li>Be in an area which has 5G coverage (check out our <a href="/coverage">coverage map</a>)</li>
+</ul>
+<p><strong>How do I find out which areas are covered by 5G?</strong></p>
+<p>Check out our <a href="/coverage">coverage map</a>.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/how-to-screenshot-on-an-android-phone</id>
+    <published>2022-06-21T12:04:44+10:00</published>
+    <updated>2023-12-06T15:24:27+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/how-to-screenshot-on-an-android-phone"/>
+    <title>How to Screenshot on an Android</title>
+    <author>
+      <name>Dhani Miles</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How to Screenshot on an Android Phone</h1>
+<p>A screenshot is an image that captures and displays the current content on a phone. Screenshotting is a useful function available on most Android phones and devices.</p>
+<p>Learn how to take a screenshot on your Android device below.</p>
+<p> </p>
+<h2>How to take a Screenshot on a Samsung Phone</h2>
+<p>Screenshotting on a Samsung phone requires your “Power Key”, “Volume Down Key”, “Side Key”, and/or “Home Key”.<br> </p>
+<ol>
+<li>
+<strong>Samsung Galaxy with a “Side Key”: </strong>Hold down the “Volume Down Key” and “Side Key” on the right side of your phone at the same time. </li>
+<li>
+<strong>Samsung Galaxy with a “Power Key”:</strong> Hold down the “Power Key” on the right side and the “Volume Down Key” on the left side of your phone at the same time.</li>
+<li>
+<strong>Samsung Galaxy with a “Home Key”:</strong> Hold down the “Home Key” on the front of your phone and the “Volume Down Key” on the left side at the same time.</li>
+<li>
+<strong>Samsung Phone with an S Pen: </strong>Tap the Air Command menu icon, select “Smart Select” and draw the parameters of the image you want to capture.</li>
+</ol>
+<p>Most Samsung phones also have a palm swipe function for taking screenshots. You can set this feature up by heading into your “Settings” and tapping into “Advanced Features”. Select “Motions &amp; Gestures” and toggle on “Palm Swipe to Capture”. This should allow you to screenshot with a palm swipe on your Samsung Galaxy device.</p>
+<p>For a scrolling screenshot, you will first need to enable “Smart Capture/Screenshot” on your toolbar. After taking a normal screenshot, you should see a scroll capture key which you can press to save a longer image on your screen.</p>
+<p> </p>
+<h2>How to take a Screenshot on a Google Pixel</h2>
+<p>Take a screenshot on a Google Pixel by holding the “Power Button” and “Volume Down Button” simultaneously for a few seconds. These buttons should be located on the right side of your device.</p>
+<p>After taking a screenshot, you’ll get a notification at the bottom of your device’s screen where you can share your screenshot or tap the “Capture More” button to take a scrolling screenshot. Your screenshot will be saved directly into your phone’s gallery app.</p>
+<p>Another way to take a screenshot on a Google Pixel is to ask your Google Assistant to.</p>
+<p> </p>
+<h2>How to take a Screenshot on a OnePlus Phone</h2>
+<p>Screenshotting on OnePlus phones is quick and simple. Simply hold the “Power” button and “Volume Down” button at the same time until your display flashes. After the flash, you will see a preview of your screenshot at the bottom right corner of your screen.</p>
+<p>You can also use gesture controls to help you take a screenshot on your OnePlus phone. Open the “Settings” app, scroll down to “Buttons &amp; Gestures” and into “Quick Gestures”. Here, you can enable “Three Finger Screenshot”. You can screenshot using this method by swiping down on your screen with your index, middle, and ring finger.</p>
+<p>You can take a screenshot on a wide range of Android devices. Most will involve the power button and other side keys that the phone may have. Unfortunately, most Android phones don’t have a dedicated screenshot button. </p>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/how-to-use-airdrop</id>
+    <published>2022-06-21T12:00:08+10:00</published>
+    <updated>2022-06-21T12:00:08+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/how-to-use-airdrop"/>
+    <title>How to Use AirDrop</title>
+    <author>
+      <name>Dhani Miles</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How to Use AirDrop</h1>
+<p>AirDrop is a Wi-fi and Bluetooth feature available only to Apple devices such as the iPhone, iPad, Macbook Air, Macbook Pro, and iPod touch. It can be useful for sharing photos, documents and files with other Apple users nearby.</p>
+<p> </p>
+<h2>AirDrop: Turn On</h2>
+<p>AirDrop is automatically turned on if both you and the person you’re sending to’s iOS devices have Bluetooth and Wi-fi turned on.</p>
+<p>There is no dedicated menu for turning on AirDrop. Simply tap “Share” on the file you would like to send, and tap “AirDrop” from the list of sharing options. Point your Apple device in the direction of the other device and select from the “People” or “Devices” that pop up.</p>
+<p>Pro tip: If you’re sending photos from your Apple device, you can select multiple at once before sharing via AirDrop.</p>
+<p> </p>
+<h2>AirDrop: Accept or Decline</h2>
+<p>When someone shares a file through AirDrop with you, you will be able to accept or decline it on your device. An alert will pop up previewing the file, and you will be prompted to tap “Accept” or “Decline”.</p>
+<p>If you accept the AirDrop, the file will automatically save into the app that it was sent from. For example, a photo will save into your device’s photos app, while a document will be saved into your files or downloads folder. </p>
+<p>If you decline the AirDrop, the alert will automatically disappear. </p>
+<p>Pro tip: You can AirDrop files to yourself from different Apple devices. As long as you’re signed in to the same Apple ID, you won’t get an alert and the file will be automatically accepted.</p>
+<p> </p>
+<h3>How do I find AirDrop on my iPhone?</h3>
+<p>If you’re looking to share something using Airdrop on your iPhone, then simply tap the “Share” button from your file. The Airdrop icon should be one of the first to pop up. </p>
+<p>You can also find AirDrop through your settings if you are looking to adjust the feature.</p>
+<p> </p>
+<h2>How to Adjust AirDrop Settings</h2>
+<p>You can adjust the AirDrop setting on your Apple device into three modes:</p>
+<ul>
+<li>
+<strong>Receiving Off:</strong> You won’t receive any AirDrop requests</li>
+<li>
+<strong>Contacts Only</strong>: Only your registered contacts can AirDrop to your device</li>
+<li>
+<strong>Everyone:</strong> All nearby Apple devices can AirDrop to your device</li>
+</ul>
+<p>To adjust your AirDrop to any of these modes, tap on “Settings”, go to “General” in your drop down menu, select Airdrop and choose your ideal option. This may vary slightly depending on your device - for example, for iPads, you may need to find your iPad launch settings.</p>
+<p>You can also adjust your AirDrop settings through your device’s control center. Swipe down from the top of your screen (or from the bottom for iPhone 8 and older devices) and firmly hold the network control center icon in the top left corner. After holding, the AirDrop icon should appear and you can select from the setting options displayed.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/how-to-hotspot-on-your-mobile-phone</id>
+    <published>2022-06-21T11:16:32+10:00</published>
+    <updated>2024-03-26T15:30:32+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/how-to-hotspot-on-your-mobile-phone"/>
+    <title>How to Hotspot on Your Mobile</title>
+    <author>
+      <name>Dhani Miles</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How to Hotspot on Your Mobile Phone</h1>
+<p>Hotspotting is a feature available on most mobile devices that allows people to share their wi-fi network with others nearby. It’s especially helpful for people who need to connect multiple devices to the internet on the fly.<br><br>Keep reading to learn more about how hotspotting works and how you can set a wireless hotspot up on your own smartphone.</p>
+<h2>How to Set Up a Hotspot</h2>
+<p>Setting up a hotspot on your mobile device is quick and easy. First, make sure that your phone’s software is updated to the latest version.</p>
+<p>Depending on your phone, the step-by-step set up process may vary slightly. However, most will require you to go into your device’s “Settings” options.</p>
+<h3>Set Up Hotspot on Android</h3>
+<p>To set up the hotspot feature on your Android phone, navigate to “Settings”, tap on “Network &amp; Internet”, and go into “Hotspot &amp; Tethering”. From here, you can share your hotspot connection via wi-fi, USB or Bluetooth.</p>
+<h3>Set Up Hotspot on iPhone IOS</h3>
+<p>To set up the hotspot feature on your iPhone, simply head into “Settings” and enable “Personal Hotspot”. You will need to toggle on the “Allow Others to Join” option.</p>
+<p>After enabling your hotspot, you can set up your own wi-fi password to secure your hotspot data usage and wi-fi network. By setting up a password, you can manage your mobile hotspot by picking and choosing which devices you allow to connect to your network. </p>
+<p>Pro tip: Make sure you also keep an eye on your phone plan’s data allowance so that you don’t run out of your high speed data by hotspotting to more devices. </p>
+<h2>How to Connect to a Hotspot</h2>
+<p>Connecting to a hotspot is similar to connecting to any other wi-fi network. The process is generally the same across all devices and hotspot networks.</p>
+<p>Below are the few steps you need to take to connect to a hotspot:</p>
+<ol>
+<li>Tap on the wireless icon on your device</li>
+<li>Enter the security key or wi-fi password as directed (you will need to find out the password from the hotspot owner)</li>
+<li>Choose the network type to determine how discoverable your device will be to other devices (e.g. private or public) and allow access permission</li>
+</ol>
+<p>Follow the steps above and you’ll be able to connect to all hotspot wi-fi networks on any device.</p>
+<h2>How do Hotspots Work?</h2>
+<p>Hotspots need a connection to a cellular network to work. Service providers such as Boost Mobile give your phone access to internet, which you can then hotspot to other devices such as tablets and laptops.</p>
+<p>Hotspots usually provide a wi-fi connection via wireless technology. Mobile data speeds usually average around 50Mbps, although some may reach up to 1,000 Mbps. If your phone plan uses 4G wireless technology, you may experience lower speeds when sharing internet access with your hotspot.</p>
+<p>Due to being conveniently accessible, you can set up a personal hotspot on your phone to share with people nearby or your other wi-fi enabled devices. </p>
+<h2>Hotspot FAQs</h2>
+<h3>What is a hotspot?</h3>
+<p>A hotspot is a physical place where users can wirelessly connect to a local network to access the internet. They are also known as “wi-fi hotspots” and “wi-fi connections”. Just like a regular wi-fi network from any internet service provider, all types of devices can connect to and use a hotspot, from phones to tablets to laptops and computers. </p>
+<p>Gone are the days of using a USB cable to connect to the internet - hotspots are a much easier and more convenient way to stay connected to the internet. A hotspot can be private or public, depending on the service provider. Public hotspots are normally available at hotels, coffee shops, airports and shopping centres. Some may require a password for exclusive access to the wi-fi hotspot.</p>
+<p>On top of regular hotspots are mobile hotspots. As the name implies, these hotspots can move around depending on the location of the dedicated hotspot devices. You can use your mobile phone as a hotspot to share your cellular network and internet connection with others. This is a process known as “tethering”.</p>
+<h3>Do hotspots use more data?</h3>
+<p>Hotspotting from your phone will naturally use more data as another device will be connected to your network. Devices of the same type such as another smartphone will use similar levels of data, while larger devices such as laptops may use more data.</p>
+<h3>How to use iPhone as hotspot?</h3>
+<p>You can use an iPhone as a hotspot by simply going into your “Settings”, tapping “Personal Hotspot” and toggling the “Allow Others to Join” option. You can set a wi-fi password as well to make your hotspot connection more secure.</p>
+<h3>Does hotspot drain battery?</h3>
+<p>Using your phone as a mobile hotspot will drain battery on your device. This is because your phone is using more power to stay connected to a wi-fi network while sharing it with others.</p>
+<h3>How secure is a mobile hotspot?</h3>
+<p>Most phones offering mobile hotspot features have some form of default security such as WPA-PSK encryption, an SSID and network key. However, to add a greater level of security, it is recommended that you set a wi-fi password on your hotspot so that only devices you approve can access your network.</p>
+<h3>Is there 5G hotspot?</h3>
+<p>Many cellular data providers now allow hotspots to work over a 5G network. This allows connections to be quicker and smartphones to access faster internet speeds via hotspots.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/5g-coverage-faqs</id>
+    <published>2022-05-17T12:10:23+10:00</published>
+    <updated>2024-03-26T15:32:38+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/5g-coverage-faqs"/>
+    <title>5G Coverage FAQs - Help and Support - Boost Mobile</title>
+    <author>
+      <name>Dhani Miles</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>5G Coverage FAQs</h1>
+<p><b>How do I access 5G?</b></p>
+<p>You’ll need a 5G device and a recharge that enables you to connect to Telstra 5G. You’ll also need to be in an area that has 5G coverage.</p>
+<p><b>How do I know if my phone has 5G?</b></p>
+<p>The easiest way is to search for the specs of your phone online but there are a few other ways to identify this.</p>
+<ul>
+<li>Some Android smartphone manufacturers are now starting to include the 5G logo on the case on the phone so check whether there’s a 5G logo on the phone case</li>
+<li>Complete a speed test. To do this, download the SpeedTest app by Ookla from the Google Play or App Store. You can tell whether your phone supports 5G by completing the speed test</li>
+<li>If you have an Android phone, you can also check your smartphone’s 5G capability under the phone settings. Go to Settings, then look for Network &amp; Internet. Under Mobile Network, a list of all the supported network technologies will show including 4G and 5G. Your phone supports 5G if it is listed.</li>
+<li>If you have an iPhone, you can check whether your phone includes 5G in the phone settings. Go to Settings, then Mobile, then Mobile Data Options. You’ll be able to see whether your device has 5G included if it displays on this screen. iPhones that include 5G are the iPhone 13 model, iPhone 12 model or iPhone SE (3rd generation)</li>
+</ul>
+<p><b>What areas have 5G coverage?</b></p>
+<p>5G coverage is now rolling out in selected areas. In non-5G coverage areas, you’ll automatically switch to the 4G network. Check out our <a title="Network Coverage" href="/pages/coverage">coverage map</a> to find out more.</p>
+<p><b>What percentage of the population is covered by 5G?</b></p>
+<p>Boost Mobile is on the full Telstra Mobile network and uses the full Telstra 5G network, currently covering 75% of the Australian population. Check out our <a title="Network Coverage" href="/pages/coverage">coverage map</a> to find out more.</p>
+<p><b>What is 5G and what are the benefits?</b></p>
+<p>5G stands for fifth generation and is the next leap forward in mobile network technology. With 5G, downloads take seconds not minutes and streaming is seamless.</p>
+<p>Downloading is faster with 5G, 5G relieves congestion in the network leading to faster data speeds and better performance (especially in crowded places). 5G also provides lower latency, meaning closer to real-time response (which is great news for gamers).</p>
+<p><b>Is 5G safe?</b></p>
+<p>Boost Mobile is on the full Telstra 5G network. Telstra has done extensive EME testing on 5G and found the EME levels to be similar to 4G and Wi-Fi. The EME levels measured were found to be well below the safety limits and in many cases, over a thousand times lower. Telstra continually monitor their network and independent authorities conduct compliance audits.</p>
+<p><b>What happens to 4G?</b></p>
+<p>4G isn't disappearing anytime soon. If you don’t have a 5G phone, that’s fine. You can still access super-fast and extensive 4G coverage on the Telstra Mobile network.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/where-to-go-for-help-support</id>
+    <published>2021-12-03T17:19:11+11:00</published>
+    <updated>2021-12-03T17:20:45+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/where-to-go-for-help-support"/>
+    <title>Where to go for Help &amp; Support</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>Where to go for Help &amp; Support</h1>
+<p>If you have a question, chances are someone else has a similar one.</p>
+<p>Check out our <a href="https://boost.com.au/pages/help-topics" title="Boost FAQs">FAQs</a> , <a href="https://refurbished.boost.com.au/pages/frequently-asked-questions" title="Refurbished FAQs">Refurbished FAQs</a>, or our <a href="https://boost.com.au/pages/get-help" title="Help &amp; Support Blog">Help &amp; Support articles.</a></p>
+<p>Or you can get it touch using of the following methods:</p>
+<ul>
+<li>Chat to us on <a href="https://www.facebook.com/boostaus" target="_blank" title="Boost Mobile Australia Facebook" rel="noopener noreferrer">Facebook</a> - available 24/7</li>
+<li>Message Us - available 7am-11pm AEST, 7 days</li>
+<li>Call us on 1800 100 933 - available 8am-8pm AEST, 7days </li>
+</ul>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/how-to-use-google-pay</id>
+    <published>2021-12-03T17:04:47+11:00</published>
+    <updated>2023-10-25T10:32:05+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/how-to-use-google-pay"/>
+    <title>How to use Google Pay - Help and Support - Boost Mobile</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How to use Google Pay</h1>
+<p>Google Pay is a mobile payments app that allows you to store your credit &amp; debit cards, shopping (aka loyalty) cards all in a simple and easy location on your supported Android phone.<br> <br><strong>So can I use Google Pay?</strong><br><strong> </strong><br>There are a few things to check to ensure you are ready for Google Pay</p>
+<ul>
+<li>Is your bank / financial provider supporting Google Pay? Check out the list of available providers <a href="https://support.google.com/pay/answer/7351634" target="_blank" title="Google Pay Providers" rel="noopener noreferrer">here</a>
+</li>
+<li>Make sure your phone is running at least Android Kit Kat 4.4 or higher</li>
+<li>You need to download the Google Pay app to your Android device. You can find that<span> </span><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel" target="_blank" rel="nofollow noopener noreferrer" title="Google Pay App">here</a>.</li>
+<li>Make sure you have a compatible phone. Most flagship Android phones from the last two years can use Google Pay, however if you were not sure, open the Google Pay app and check its compatibility. If your device is not compatible you will receive one of the following error messages - "Google Pay can’t be used”, “Google is unable to verify your device”, “You can no longer use Google Pay on this phone”.</li>
+</ul>
+<p><strong>How do I set up Google Pay?</strong></p>
+<p>Simply head over to the Google Pay app and click the blue ‘get started’ button! This will guide you through the process to add your specific card and even give you the option to scan your card using your device’s camera so you don’t need to type in those numbers! (You can also type your numbers in manually if this is your thing)</p>
+<p>Once done, you will go through a security verification process (just to make sure it’s you) then voila, you’re done!<br> <br><strong>Is Google Pay safe?</strong></p>
+<p>Google Pay has a multi-layered secured system to ensure your transactions are safe. When you are making a payment in store, Google Pay is not sharing the actual card information. The merchant is instead receiving a unique and encrypted number to complete the transaction.</p>
+<p>Even if you lose your phone, you can use the ‘Find my phone’ feature and shut down access to Google Pay.<br> <br><strong>So where can I use Google Pay?</strong></p>
+<p>Anywhere that has the Google Pay logo. This can often be found on the EFTPOS pad and / or register where you are making the purchase. Simply when prompted, hold your phone up to the EFTPOS pad and your phone will confirm payment has been made.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/how-to-use-apple-pay</id>
+    <published>2021-12-03T16:58:55+11:00</published>
+    <updated>2023-10-25T10:31:42+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/how-to-use-apple-pay"/>
+    <title>How to use Apple Pay - Help and Support - Boost Mobile</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How to use Apple Pay?</h1>
+<p>Apple pay is making it easier to make purchases from your iPhone or Apple Watch. Make everyday purchases in stores, in-apps and on participating websites in ways simpler and safer than using your actual card.<br><br><strong>So can I use Apple Pay?</strong></p>
+<p>There are a few things to check to ensure you are ready for Apple Pay.</p>
+<ul>
+<li>Is your bank / financial provider supporting Apple Pay? Check out the list of available providers <a href="https://support.apple.com/en-au/HT206638" title="Apple Pay Providers">here</a>
+</li>
+<li>Is your Apple Device compatible? Apple Pay works on iPhone 6, 6 Plus, iPhone 6S, 6S Plus, 7, 7 Plus, 8, 8 Plus, iPhone X, iPhone SE, iPad Air 2, iPad Pro and the Apple Watch.</li>
+<li>You have the latest version of iOS on your device. Simply head to Settings &gt; General &gt; Software Update</li>
+</ul>
+<p> </p>
+<p><strong>How do I set up Apple Pay?</strong></p>
+<p>Does your device meet the above? Great! Simply head to the ‘Wallet’ app on your device and select ‘Add Credit or Debit Card’ and follow the prompts. This will go through a process to ensure everything is compatible for use.<br><br><strong>Is Apple Pay Safe?</strong></p>
+<p>Apple Pay utilises a number which is specific to your device and a transaction number that is unique to this type of transaction. Your card number is not stored on your device nor are they shared with merchants using Apple Pay. Plus, it’s always handy to have either a pin or Face ID enabled on your device for added protection.<br><br><strong>Where can I use Apple Pay?</strong></p>
+<p>Simply look for the Apple Pay logo. Generally these can be found at the checkout or on the EFTPOS pad.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/boost-id</id>
+    <published>2021-12-03T15:49:06+11:00</published>
+    <updated>2023-11-16T11:14:39+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/boost-id"/>
+    <title>Username and Password - Help and Support - Boost Mobile</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1><span data-mce-fragment="1">What is my username and password?</span></h1>
+<p><strong><span data-mce-fragment="1">Formerly known as a Boost ID, your Boost username and password are used to access and manage your Boost service.</span></strong></p>
+<p>Your username is the email address you used to activate your Boost service with us. It enables you to securely access and manage specific features in the app, such as:<br data-mce-fragment="1"><br>- Set up and manage auto recharge<br data-mce-fragment="1">- Save and manage your credit / debit card details<br data-mce-fragment="1">- Manage multiple services<br data-mce-fragment="1">- View your usage history<br data-mce-fragment="1">- View your recharge history</p>
+<h3>How to recover username in the My Boost Mobile app:</h3>
+<p>1. Open the My Boost Mobile app and tap the black "Sign in" button at the bottom of the screen.<br>2. Tap "Recover username" under the username text field.<br>3. Choose how you want to recover the username by selecting email address or Boost mobile number.<br>4. Tap the black "Let's get started" button. <br>5. Now enter your email address. <br>6. You should receive an email from us shortly with you username. If you can't find it in your inbox, please check your junk mail.<br>7. Tap the sign in button.</p>
+<h3>How do I reset my password?</h3>
+<p>When prompted, enter your username in the box provided, and click Send. <br data-mce-fragment="1"><br data-mce-fragment="1">An email will be sent with a link to reset your password. Simply click on the link and follow the prompts.<br data-mce-fragment="1"><br>Now you're good to go! You can sign into the My Boost Mobile app and access the additional features.<br data-mce-fragment="1"><br></p>
+<ol></ol>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/wifi-calling</id>
+    <published>2021-12-03T15:30:48+11:00</published>
+    <updated>2023-10-25T10:38:11+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/wifi-calling"/>
+    <title>Wi-Fi Calling - Help and Support - Boost Mobile</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>Does Boost support Wi-Fi Calling?</h1>
+<p>Wi-Fi calling enables you to make calls using a fixed Wi-Fi connection from your compatible Boost phone when you can’t connect to the mobile network. Your phone simply uses your Wi-Fi network instead of the mobile network, so you can make and receive calls as you would normally.</p>
+<p> </p>
+<p><strong>To use Wi-Fi calling, you need to:</strong></p>
+<ul>
+<li>Have a Wi-Fi calling compatible smartphone or tablet</li>
+<li>Have 4G voice calls enabled</li>
+<li>Have up-to-date software</li>
+<li>Turn on Wi-Fi calling</li>
+</ul>
+<p> </p>
+<p><strong><span class="heading-16">How do I turn on Wi-Fi calling?</span></strong></p>
+<p>For iPhone:</p>
+<ol>
+<li>Go to <strong>Settings</strong>
+</li>
+<li>Select <strong>Mobile</strong>
+</li>
+<li>Turn on <strong>Wi-Fi calling</strong>
+</li>
+</ol>
+<p> </p>
+<p>For Android devices:</p>
+<ol>
+<li>Go to your phone's calling app</li>
+<li>Select <strong>More </strong>or the three dots in the top right corner</li>
+<li>Select <strong>Settings</strong>
+</li>
+<li>Turn on <strong>Wi-Fi Calling</strong>
+</li>
+</ol>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/included-calls</id>
+    <published>2021-12-03T13:48:03+11:00</published>
+    <updated>2023-10-25T10:33:08+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/included-calls"/>
+    <title>Included Calls - Help and Support - Boost Mobile</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>What types of calls are included in Boost plans?</h1>
+<p>All our plans include unlimited calls and text to standard national numbers, which means you can call regular landline and mobile numbers as much as you like. This also includes most 1800, 1300 or 13 numbers.</p>
+<p>It e<span>xcludes calls and texts to international numbers, satellite and premium numbers (eg. 19xx numbers), operator assisted calls (most 12xx numbers) and all use overseas.</span></p>
+<p>Some of our plans also include standard calls to international numbers.</p>
+<p>For more information about our current plan inclusions, click <a href="https://boost.com.au/pages/prepaid-plans" title="Prepaid Plans">here</a>.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/data-sharing</id>
+    <published>2021-12-03T13:40:43+11:00</published>
+    <updated>2023-10-25T10:30:22+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/data-sharing"/>
+    <title>Data Sharing - Help and Support - Boost Mobile</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>Does Boost offer data sharing?</h1>
+<p>No, Boost doesn't offer data sharing between your service and and another Boost service.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/smart-watch</id>
+    <published>2021-12-03T13:26:31+11:00</published>
+    <updated>2023-10-25T10:37:02+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/smart-watch"/>
+    <title>Smart watch compatibility - Help and Support - Boost Mobile</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>Can I use my Smart watch with Boost?</h1>
+<p>Boost doesn't currently support the use of cellular Smartwatches with your existing number, including Apple watches and Samsung Galaxy watches.</p>
+<p><span>However we are working on it as we know its something our customers are interested in.</span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/does-boost-have-esim-capability</id>
+    <published>2021-12-03T13:19:57+11:00</published>
+    <updated>2024-03-12T14:43:25+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/does-boost-have-esim-capability"/>
+    <title>Does Boost have eSIM capability</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>Does Boost Mobile have eSIM capability?</h1>
+<p>We sure do! And the best news... All of our plans are available on eSIM.</p>
+<p>All you have to do to sign up for your eSIM service is download the My Boost Mobile app and select “Buy a prepaid plan on eSIM” and follow the prompts. It’s pretty straightforward though, tbh.</p>
+<p><a href="https://boost.com.au/pages/esim" title="eSIM Boost Mobile">More info on Boost Mobile eSIM.</a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/change-account-ownership</id>
+    <published>2021-12-01T15:35:06+11:00</published>
+    <updated>2023-10-25T10:28:46+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/change-account-ownership"/>
+    <title>Change account ownership - Help and Support - Boost Mobile</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How to change your account ownership</h1>
+<p>To transfer your account to another person, or to update account details, please contact us. You can call 1800 100 933 or Message Us on our <a href="https://boost.com.au/pages/get-help" target="_blank" title="Help" rel="noopener noreferrer">help</a> page.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/extend-your-ring-time</id>
+    <published>2021-12-01T15:04:34+11:00</published>
+    <updated>2023-10-25T10:30:41+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/extend-your-ring-time"/>
+    <title>Extend your ring time - Help and Support - Boost Mobile</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How to extend your ring time</h1>
+<p>To extend your phone's ring time, follow these simple steps:</p>
+<ol>
+<li>On your Boost mobile dial **61*101**(number of seconds: 15, 20, 25 or 30)#</li>
+<li>Press the Call/Send button</li>
+</ol>
+For example, to extend your ring time to 30 seconds, you would dial **61*101**30#]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/manage-your-service</id>
+    <published>2021-12-01T12:32:15+11:00</published>
+    <updated>2024-03-26T15:37:45+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/manage-your-service"/>
+    <title>Manage your service - Help and Support - Boost Mobile</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How to manage your service</h1>
+<p><strong>The easiest way to manage your service is in the My Boost Mobile app and online.</strong></p>
+<p>With the My Boost Mobile app you can recharge, set up auto recharge, check you balance, see your usage &amp; recharge history, get help and more. </p>
+<p>My Boost Mobile is available for <a href="https://apps.apple.com/au/app/my-boost-mobile/id1536871973" title="My Boost Mobile App iOS" target="_blank">iOS</a> and <a href="https://play.google.com/store/apps/details?id=com.boost.mobile.myboost" title="My Boost Mobile app Android" target="_blank">Android</a> and is for customers on the Boost Mobile Prepaid Plan. </p>
+<p>You can also recharge on our website by <a href="https://myaccount.boost.com.au/" title="sign in">signing in</a> or using our online<a href="https://boost.com.au/enternumber" title="Quick recharge"> recharge</a> option. </p>
+<p> </p>]]>
+    </content>
+  </entry>
+</feed>

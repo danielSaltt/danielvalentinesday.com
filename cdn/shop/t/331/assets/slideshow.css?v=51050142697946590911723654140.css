@@ -1,0 +1,699 @@
+/** Shopify CDN: Minification failed
+
+Line 320:28 Unexpected "{"
+Line 402:30 Unexpected "{"
+
+**/
+.slideshow {
+  height: 400px;
+  overflow: hidden;
+}
+
+.slideshow--small {
+  height: 350px;
+}
+
+.slideshow--large {
+  height: 450px;
+}
+
+.slideshow__slide {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.slideshow__slide-inner {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.slideshow:not(.flickity-enabled) .slideshow__slide:not(.is-selected) {
+  display: none;
+}
+
+.slideshow__placeholder {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.slideshow__image-placeholder {
+  height: 100%;
+  fill: dimgrey;
+  background: darkgrey;
+}
+
+.slideshow__title {
+  margin-bottom: 7px;
+  color: inherit;
+}
+
+.slideshow__content-wrapper {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  padding-top: 40px;
+  padding-bottom: 25px;
+}
+
+.slideshow__content {
+  max-width: 650px;
+  margin: 0 auto 22px auto;
+}
+
+.slideshow .flickity-page-dots {
+  bottom: 30px;
+}
+
+.slideshow .flickity-page-dots .dot {
+  width: 12px;
+  height: 12px;
+  margin: 0 8px;
+  background: #ffffff;
+  border: 3px solid #ffffff;
+  transform: none !important;
+  transition: background 0.25s ease-in-out;
+}
+
+.slideshow .flickity-page-dots .dot::before {
+  top: -10px;
+  right: -10px;
+  left: -10px;
+  bottom: -10px;
+}
+
+.slideshow .flickity-page-dots .dot.is-selected {
+  background: transparent;
+}
+
+/** Overlay variation **/
+.slideshow__slide--overlay::before {
+  position: absolute;
+  content: "";
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3));
+  z-index: 1;
+}
+
+/** Preserve ratio variation
+
+ IMPLEMENTATION NOTE: I am using two different ways to center the content. If the slideshow is a fixed height, the theme uses a flexbox
+                      based approach, while if the slideshow is not fixed (ie. respecting the image aspect ratio), I use a transform based
+                      approach. I could have keep it simpler and use the transform based everywhere (which would have removed a lot of code),
+                      but the transform based is proved to reduce sometimes the quality of the text and make it a bit blurry. This is why
+                      there is another, more optimized way to position when it is possible
+ **/
+.slideshow--preserve-ratio {
+  height: auto !important;
+}
+
+.slideshow--preserve-ratio .slideshow__slide {
+  height: auto;
+}
+
+.slideshow--preserve-ratio .slideshow__slide-inner {
+  position: relative;
+  display: block;
+  width: auto;
+  height: auto;
+}
+
+.slideshow--preserve-ratio .slideshow__content-wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@media screen and (min-width: 641px) {
+  .slideshow:not(.slideshow--edge2edge):not(.boost-super-slider--edge2edge) {
+    margin: var(--desktop-container-gutter) 0;
+  }
+
+  .slideshow:not(.slideshow--edge2edge) .flickity-viewport {
+    border-radius: 3px;
+  }
+
+  .slideshow__image-placeholder {
+    height: auto;
+    width: 100%;
+  }
+
+  /* Positioning for fixed height carousel */
+  .slideshow__slide-inner--top-left,
+  .slideshow__slide-inner--top-center,
+  .slideshow__slide-inner--top-right {
+    justify-content: flex-start;
+  }
+
+  .slideshow__slide-inner--bottom-left,
+  .slideshow__slide-inner--bottom-center,
+  .slideshow__slide-inner--bottom-right {
+    justify-content: flex-end;
+  }
+
+  .slideshow__slide-inner--bottom-left .slideshow__content-wrapper,
+  .slideshow__slide-inner--bottom-center .slideshow__content-wrapper,
+  .slideshow__slide-inner--bottom-right .slideshow__content-wrapper {
+    padding-bottom: 75px;
+    padding-top: 25px;
+  }
+
+  .slideshow__slide-inner--top-left,
+  .slideshow__slide-inner--middle-left,
+  .slideshow__slide-inner--bottom-left {
+    text-align: left;
+  }
+
+  .slideshow__slide-inner--top-left .slideshow__content,
+  .slideshow__slide-inner--middle-left .slideshow__content,
+  .slideshow__slide-inner--bottom-left .slideshow__content {
+    margin-left: 0;
+  }
+
+  .slideshow__slide-inner--top-right,
+  .slideshow__slide-inner--middle-right,
+  .slideshow__slide-inner--bottom-right {
+    text-align: right;
+  }
+  .slideshow__slide-inner--top-right .slideshow__content,
+  .slideshow__slide-inner--middle-right .slideshow__content,
+  .slideshow__slide-inner--bottom-right .slideshow__content {
+    margin-right: 0;
+  }
+
+  /* Positioning for non-fixed height carousel */
+  .slideshow--preserve-ratio .slideshow__slide-inner--top-left .slideshow__content-wrapper,
+  .slideshow--preserve-ratio .slideshow__slide-inner--top-center .slideshow__content-wrapper,
+  .slideshow--preserve-ratio .slideshow__slide-inner--top-right .slideshow__content-wrapper {
+    top: 0;
+    transform: translateX(-50%);
+  }
+
+  .slideshow--preserve-ratio .slideshow__slide-inner--bottom-left .slideshow__content-wrapper,
+  .slideshow--preserve-ratio .slideshow__slide-inner--bottom-center .slideshow__content-wrapper,
+  .slideshow--preserve-ratio .slideshow__slide-inner--bottom-right .slideshow__content-wrapper {
+    top: auto;
+    bottom: 0;
+    transform: translateX(-50%);
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .slideshow {
+    height: 430px;
+  }
+
+  .slideshow--small {
+    height: 380px;
+  }
+
+  .slideshow--large {
+    height: 520px;
+  }
+}
+
+.slideshow__slide-inner-middle-center {
+  justify-content: center;
+height: 500px;
+}
+
+.flickity-viewport {
+  overflow: hidden;
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+/**
+ * --------------------------------------------------------------------
+ * Dot removal from slideshow -  when multiple slides, pagination dots are rendered invisible
+ * --------------------------------------------------------------------
+ */
+.slideshow .flickity-page-dots .dot {
+  background: transparent;
+  border: 0px transparent;
+}
+
+/* Slideshow live offer builds - desktop */
+
+.slideshow__slide {
+    min-height: 500px;
+}
+.slideshow__content {
+    max-width: 100%;
+    margin-left: 0px;
+    text-align: left;
+}
+.slideshow__losange {
+    margin-bottom: 16px;
+    margin-left: 0px;
+    margin-top: 10px;
+    padding: 4px 10px;
+    display: inline-block;
+    contain: 3px;
+    background: #ff4300;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 0px 16.8156px 16.8156px 16.8px;
+    line-height: 20px;
+}
+.slideshow__title2{
+    margin-top: 0px;
+    margin-left: 0px;
+    font-size: 68px;
+    line-height: 6px;
+    letter-spacing: -3px;
+    color: #ff4300;
+    border-width: 0px 0px 0px 0px; /* 25px top, 10px right, 4px bottom and 35px left */
+}
+.slideshow__title3{
+    margin-top: 0px;
+    margin-left: 0px;
+    font-size: 68px;
+    line-height: 6px;
+    letter-spacing: -3px;
+    color: inherit;
+    border-color: #B6B6B6;
+    border-width: 0px 0px 0px 0px; /* 25px top, 10px right, 4px bottom and 35px left */
+}
+.slideshow__title4{
+    margin-top: -20px;
+    margin-left: 0px;
+    font-size: 68px;
+    line-height: 6px;
+    letter-spacing: -2.5px;
+    color: inherit;
+    border-color: #B6B6B6;
+    border-width: 0px 0px 0px 0px; /* 25px top, 10px right, 4px bottom and 35px left */
+}
+.slideshow__title5{
+    margin-left: 0px;
+    line-height: 0.8;
+    font-size: 90px;
+    font-weight: 900;
+    letter-spacing: -5px;
+    color: inherit; /* Fallback for older browsers */
+    opacity: 0.7;
+    border-color: #B6B6B6;
+    border-width: 0px 0px 0px 0px; /* 25px top, 10px right, 4px bottom and 35px left */
+}
+.slideshow__content-wrapper,{
+    position: left;
+    z-index: 1;
+    width: 100%;
+    padding-top: 20;
+    padding-bottom: 25px;
+    padding-left: 70px;
+}
+.slideshow__button {
+    position: relative;
+    margin-left: 10px;
+    margin-top: 10px;
+    display: inline-block;
+    padding: 0 0px;
+    line-height: 38px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: var(--text-font-bolder-weight);
+    font-size: var(--base-text-font-size);
+    cursor: pointer;
+    transition: background .25s ease-in-out,color .25s ease-in-out,box-shadow .25s ease-in-out;
+}
+
+/* Slideshow live offer builds - mobile */
+
+@media screen and (max-width: 641px) {
+ .slideshow__content {
+    max-width: 100%;
+    margin-left: 35px;
+    text-align: left;
+  }
+  .slideshow__losange {
+    margin-bottom: 10px;
+    margin-left: 35px;
+    margin-top: 10px;
+    padding: 4px 10px;
+    display: inline-block;
+    background: #ff4300;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 0px 16.8156px 16.8156px 16.8px;
+    line-height: 20px;
+  }
+  .slideshow__title2{
+    margin-top: 0px;
+    margin-left: 35px;
+    font-size: 58px;
+    line-height: 0px;
+    color: #ff4300;
+    border-color: #B6B6B6;
+    border-width: 0px 0px 0px 0px; /* 25px top, 10px right, 4px bottom and 35px left */
+  }
+  .slideshow__title3{
+    margin-top: -10px;
+    margin-left: 35px;
+    font-size: 58px;
+    line-height: 0px;
+    color: inherit;
+    border-color: #B6B6B6;
+    border-width: 0px 0px 0px 0px; /* 25px top, 10px right, 4px bottom and 35px left */
+  }
+  .slideshow__title4{
+    margin-top: -20px;
+    margin-left: 35px;
+    font-size: 38px;
+    letter-spacing: -1.5px;
+    color: inherit;
+    border-color: #B6B6B6;
+    border-width: 0px 0px 0px 0px; /* 25px top, 10px right, 4px bottom and 35px left */
+  }
+.slideshow__title5{
+    margin-left: 30px;
+    line-height: 0px;
+    font-size: 70px;
+    font-weight: 900;
+    letter-spacing: -5px;
+    color: inherit; /* Fallback for older browsers */
+    opacity: 0.7;
+    border-color: #B6B6B6;
+    border-width: 0px 0px 0px 0px; /* 25px top, 10px right, 4px bottom and 35px left */
+}
+  .slideshow__content-wrapper,{
+    position: top;
+    z-index: 1;
+    width: 100%;
+    padding-top: 20;
+    padding-bottom: 25px;
+  padding-left: 70px;
+  }
+
+  .slideshow__button {
+    position: relative;
+    margin-left: 30px;
+    display: inline-block;
+    padding: 0 30px;
+    line-height: 38px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: var(--text-font-bolder-weight);
+    font-size: var(--base-text-font-size);
+    cursor: pointer;
+    transition: background .25s ease-in-out,color .25s ease-in-out,box-shadow .25s ease-in-out;
+
+  }
+}
+
+/**
+ * --------------------------------------------------------------------
+ * PRIMARY SLIDESHOW
+ * MARCH 8 - recolourisation and style change of sitewide slideshow
+             currently a tempory fix for the custom slideshow presentation using
+             negative margins & padd ing to achieve the containter stretch.
+             Will continue to work towards a solid state to determin the full width
+ * --------------------------------------------------------------------
+ */
+
+/**
+ * Note: Boost Super Slider will take over from the boost-slideshow component and CSS will be local to the component.
+ * Will remove the css below once old slider is removed (Sections / boosr-slideshow-2022-brand.liquid)
+ */
+
+.boost-slideshow {
+  height: 900px;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+.boost-slideshow__slideshow__image {
+ height: 500px;
+}
+
+.boost-slideshow--small {
+  height: 350px;
+}
+
+.boost-slideshow--large {
+  height: 450px;
+}
+
+.boost-slideshow__slide {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.boost-slideshow__slide-inner {
+  position: absolute;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.boost-slideshow:not(.flickity-enabled) .boost-slideshow__slide:not(.is-selected) {
+  display: none;
+}
+
+.boost-slideshow__placeholder {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.boost-slideshow__image-placeholder {
+  height: 100%;
+  fill: dimgrey;
+  background: darkgrey;
+}
+
+.boost-slideshow__title {
+  margin-bottom: 7px;
+  color: inherit;
+}
+
+.boost-slideshow__content-wrapper {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  padding-top: 0px;
+  padding-bottom: 25px;
+}
+
+.boost-slideshow__content {
+  max-width: 650px;
+}
+
+.boost-slideshow .flickity-page-dots {
+  bottom: 30px;
+}
+
+.boost-slideshow .flickity-page-dots .dot {
+  width: 0px;
+  height: 0px;
+  margin: 0 8px;
+  background: transparent;
+  border: 0px transparent;
+  transform: none !important;
+  transition: background 0.25s ease-in-out;
+}
+
+.boost-slideshow .flickity-page-dots .dot::before {
+  top: -10px;
+  right: -10px;
+  left: -10px;
+  bottom: -10px;
+}
+
+.boost-slideshow .flickity-page-dots .dot.is-selected {
+  background: transparent;
+}
+
+/** Overlay variation **/
+.boost-slideshow__slide--overlay::before {
+  position: absolute;
+  content: "";
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  background:#fff;
+  z-index: 1;
+}
+
+/** Preserve ratio variation
+
+ IMPLEMENTATION NOTE: I am using two different ways to center the content. If the slideshow is a fixed height, the theme uses a flexbox
+                      based approach, while if the slideshow is not fixed (ie. respecting the image aspect ratio), I use a transform based
+                      approach. I could have keep it simpler and use the transform based everywhere (which would have removed a lot of code),
+                      but the transform based is proved to reduce sometimes the quality of the text and make it a bit blurry. This is why
+                      there is another, more optimized way to position when it is possible
+ **/
+
+.boost-slideshow--preserve-ratio {
+  height: auto !important;
+  background-color: #fff;
+  background-size: 100%;
+  margin-top: 0px !important;
+    /* also subtract section padding (1.5rem) */
+/*   margin: 0 -601.5rem;
+  add back section padding (1.5rem) */
+/*   background: #141414; */
+  background: linear-gradient(to right, #fff, #fff); 
+  /* border has to be solid, not RGBa */
+  /* 9600px or equiv (600rem = 9600/16) */
+/* 
+  border-left: 600rem solid #141414;
+  border-right: 600rem solid #ff4300; */
+}
+
+
+.boost-slideshow--preserve-ratio .boost-slideshow__slide {
+  height: fixed;
+}
+
+.boost-slideshow--preserve-ratio .boost-slideshow__slide-inner {
+  position: relative;
+  display: inline;
+  width: auto;
+}
+
+.boost-slideshow--preserve-ratio .boost-slideshow__content-wrapper {
+  position: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@media screen and (min-width: 641px) {
+  .boost-slideshow:not(.boost-slideshow--edge2edge) {
+  }
+
+  .boost-slideshow:not(.boost-slideshow--edge2edge) .flickity-viewport {
+    border-radius: 3px;
+  }
+
+  .boost-slideshow__image-placeholder {
+    height: 100;
+    width: 100%;
+  }
+
+  /* Positioning for fixed height carousel */
+  .boost-slideshow__slide-inner--top-left,
+  .boost-slideshow__slide-inner--top-center,
+  .boost-slideshow__slide-inner--top-right {
+    justify-content: flex-start;
+  }
+
+  .boost-slideshow__slide-inner--bottom-left,
+  .boost-slideshow__slide-inner--bottom-center,
+  .boost-slideshow__slide-inner--bottom-right {
+    justify-content: flex-end;
+  }
+
+  .boost-slideshow__slide-inner--bottom-left .boost-slideshow__content-wrapper,
+  .boost-slideshow__slide-inner--bottom-center .boost-slideshow__content-wrapper,
+  .boost-slideshow__slide-inner--bottom-right .boost-slideshow__content-wrapper {
+    padding-bottom: 75px;
+    padding-top: 25px;
+  }
+
+  .boost-slideshow__slide-inner--top-left,
+  .boost-slideshow__slide-inner--middle-left,
+  .boost-slideshow__slide-inner--bottom-left {
+    text-align: left;
+  }
+
+  .boost-slideshow__slide-inner--top-left .boost-slideshow__content,
+  .boost-slideshow__slide-inner--middle-left .boost-slideshow__content,
+  .boost-slideshow__slide-inner--bottom-left .boost-slideshow__content {
+    margin-left: 0;
+  }
+
+  .boost-slideshow__slide-inner--top-right,
+  .boost-slideshow__slide-inner--middle-right,
+  .boost-slideshow__slide-inner--bottom-right {
+    text-align: right;
+  }
+  .boost-slideshow__slide-inner--top-right .sboost-slideshow__content,
+  .boost-slideshow__slide-inner--middle-right .boost-slideshow_content,
+  .boost-slideshow__slide-inner--bottom-right .boost-slideshow__content {
+    margin-right: 0;
+  }
+
+  /* Positioning for non-fixed height carousel */
+  .boost-slideshow--preserve-ratio .boost-slideshow__slide-inner--top-left .boost-slideshow__content-wrapper,
+  .boost-slideshow--preserve-ratio .boost-slideshow__slide-inner--top-center .boost-slideshow__content-wrapper,
+  .boost-slideshow--preserve-ratio .boost-slideshow__slide-inner--top-right .boost-slideshow__content-wrapper {
+    top: 0;
+    transform: translateX(-50%);
+  }
+
+  .boost-slideshow--preserve-ratio .boost-slideshow__slide-inner--bottom-left .boost-slideshow__content-wrapper,
+  .boost-slideshow--preserve-ratio .boost-slideshow__slide-inner--bottom-center .boost-slideshow__content-wrapper,
+  .boost-slideshow--preserve-ratio .boost-slideshow__slide-inner--bottom-right .boost-slideshow__content-wrapper {
+    top: auto;
+    bottom: 0;
+    transform: translateX(-50%);
+  }
+  
+  .boost-slideshow--preserve-ratio {
+/* 100vw is fullwidth of the viewport*/
+/* 13/15 is the ratio which I notice, the width of the class will be 13/15 of the viewport (on my screen at least), so 100vw * (13/15) is the calculated width of the class */
+/* Above calculation not gonna work if viewport is stretch out and class's width is at maximum (which I belive is 1400px), hence we take the minimum between the two */
+/* All the above calculate the left over space that has to be filled by the borders, there are 2 of them so divide the total by 2 */
+    margin: 0 calc(calc(-100vw + min(100vw * (13/15), 1400px))/2);
+  	border-left: calc(calc(100vw - min(100vw * (13/15), 1400px))/2) solid #fff;
+	border-right: calc(calc(100vw - min(100vw * (13/15), 1400px))/2) solid #fff;
+    height: 500px;
+/*  Older version if needed: calc(calc(100vw - 1400px)/2)    */
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .boost-slideshow {
+    height: 430px;
+  }
+
+  .boost-slideshow--small {
+    height: 380px;
+  }
+
+  .boost-slideshow--large {
+    height: 520px;
+  }
+}
+
+.boost-super-slider .heading {
+  color: inherit;
+}

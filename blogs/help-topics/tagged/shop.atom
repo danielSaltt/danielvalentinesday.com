@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://boost.com.au/blogs/help-topics.atom</id>
+  <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics"/>
+  <link rel="self" type="application/atom+xml" href="https://boost.com.au/blogs/help-topics/tagged/shop.atom"/>
+  <title>Boost Mobile Australia - Help Topics</title>
+  <updated>2024-02-14T06:46:40+11:00</updated>
+  <author>
+    <name>Boost Mobile Australia</name>
+  </author>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/request-refund</id>
+    <published>2021-03-16T11:33:59+11:00</published>
+    <updated>2021-12-20T12:03:16+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/request-refund"/>
+    <title>Request A Refund</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How do I request a refund?</h1>
+<p><strong>If you made a purchase on the Boost website</strong></p>
+<p>If you believe you’ve been incorrectly charged and would like a refund, please <a href="https://boost.com.au/get-help/"><u>Message us</u></a> (7am-11pm AEST, 7 days)</p>
+<p><b>If you made a purchase in a retailer</b></p>
+<p>Please return the product with receipt to the retailer you purchased it from.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/online-orders-shipping-delivery</id>
+    <published>2021-03-16T11:25:24+11:00</published>
+    <updated>2022-03-07T10:34:10+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/online-orders-shipping-delivery"/>
+    <title>Boost Delivery: Online Orders &amp; Shipping</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1 class="center">How long will it take to receive my online order?</h1>
+<p>Our new phones and SIMs are shipped by our partner Telstra. If you place your order on a business day, your item will usually be dispatched within 24 hours. Once dispatched, you should receive your order within the following business days:</p>
+<ul>
+<li>
+<strong>Metro Areas –</strong> 2-5 business days for capital cities – Sydney, Melbourne, Adelaide, Perth, Canberra, Darwin, Hobart &amp; Brisbane (order before 4pm).</li>
+<li>
+<strong>Non Metro or Regional / remote areas –</strong> 3-7 business days</li>
+</ul>
+<p class="vcex-icon-box-text wpex-flex-grow"><strong>Track My Order</strong>﻿ - You can track your order<span> </span><a href="https://startrack.com.au/" target="_blank" rel="noopener noreferrer" aria-describedby="a11y-new-window-message">here</a>. Make sure you have your Order ID handy.</p>
+<p class="vcex-icon-box-text wpex-flex-grow"><strong>Got a Question? </strong>For questions on your order, please message us by clicking the “Message us” button on our<span> </span><a href="https://boost.com.au/get-help/">Help page</a></p>
+<ul></ul>
+<p><strong>For security reasons, you’ll need to show the same ID you used to order online when accepting your delivery from the courier.</strong></p>
+<p>If you are not at home when your order is delivered it will be taken to Australia Post and you will have to make arrangements (at your cost) to collect it. A  card will be left with details of where your order is and your order number, which you can track by visiting <a href="http://www.startrack.com.au/">here</a>.</p>
+<p>If you receive an order and have any issues, please<a href="https://boost.com.au/get-help/"> Message us</a>. Please ensure you enter the correct delivery address and contact details. Boost mobile will not be held responsible for items that are shipped to an address you submitted incorrectly. You will be given the opportunity to review and confirm your address on the review section of the website. If this is not noticed until after your order is finalised, please contact us. If your order has been dispatched before you notify us, you may be charged an additional fee for re-directing the order.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/purchase-a-sim</id>
+    <published>2021-03-16T11:23:32+11:00</published>
+    <updated>2023-07-18T12:02:57+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/purchase-a-sim"/>
+    <title>Purchase a SIM: Find a Boost Retailer</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How do I purchase a SIM?</h1>
+<p><strong>There are two ways to get your hands on a Boost SIM:</strong></p>
+<ol>
+<li>In our online<span> </span><a href="https://boost.com.au/shop/">shop</a>
+</li>
+<li>At your local<span> </span><a href="https://boost.com.au/find-a-store/">Boost Retailer</a>
+</li>
+</ol>
+<p><strong>Boost stock a range of SIM cards with different values and expiry periods. To get started you can either:</strong><br>- Purchase a<span> </span><a href="https://boost.com.au/shop/2-prepaid-sim-card/">$2 starter SIM</a><span> </span>and then recharge with the prepaid plan that suits you<br>- Purchase a 28 day or long expiry SIM which has your first recharge already included</p>
+<p>Check out our<span> </span><a href="https://boost.com.au/plans/">prepaid plans</a><span> </span>to find the right one for you.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/cancel-an-order</id>
+    <published>2021-03-16T11:22:28+11:00</published>
+    <updated>2021-12-20T11:57:02+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/cancel-an-order"/>
+    <title>Cancel A Boost Mobile Order</title>
+    <author>
+      <name>John-Scott McClure</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>How do I cancel an order? </h1>
+<p>If you have any questions regarding your order, please <a href="https://boost.com.au/get-help/">Message us</a>.</p>]]>
+    </content>
+  </entry>
+</feed>

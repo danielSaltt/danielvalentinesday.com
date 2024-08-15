@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://boost.com.au/blogs/help-topics.atom</id>
+  <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics"/>
+  <link rel="self" type="application/atom+xml" href="https://boost.com.au/blogs/help-topics/tagged/esim.atom"/>
+  <title>Boost Mobile Australia - Help Topics</title>
+  <updated>2024-02-14T06:46:40+11:00</updated>
+  <author>
+    <name>Boost Mobile Australia</name>
+  </author>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/esim-transfer-or-restore-esim-is-missing</id>
+    <published>2024-02-14T06:46:40+11:00</published>
+    <updated>2024-02-14T11:57:26+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/esim-transfer-or-restore-esim-is-missing"/>
+    <title>eSIM: Transfer or restore eSIM is missing</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1 data-mce-fragment="1"><strong>Why can’t I see the ‘Transfer or restore eSIM’ option?</strong></h1>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">If your Boost Mobile service is listed in the</span> <a data-mce-fragment="1" href="https://boost.com.au/pages/my-boost-mobile-app?_pos=1&amp;_sid=165c127b0&amp;_ss=r" data-mce-href="https://boost.com.au/pages/my-boost-mobile-app?_pos=1&amp;_sid=165c127b0&amp;_ss=r"><b data-mce-fragment="1">My Boost Mobile app</b></a><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> on an eSIM-enabled device, go to </span><b data-mce-fragment="1">Get help &gt; select your service &gt; set up or manage eSIM.</b></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">If Transfer or restore eSIM isn’t there, check the following:</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">
+<span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Only the owner of the Boost Mobile account for the mobile service will have the </span><b data-mce-fragment="1">Transfer or restore eSIM</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> option in the My Boost Mobile app. If the account owner has added you as a full authority contact, please </span><a data-mce-fragment="1" href="https://boost.com.au/pages/get-help" data-mce-href="https://boost.com.au/pages/get-help"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">contact us</span></a><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> for further assistance. </span>
+</li>
+<li data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">
+<span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">The app may need to be refreshed, even if you have the latest version. Try updating, or removing and re-installing the My Boost Mobile app on your device. If </span><b data-mce-fragment="1">Transfer or restore eSIM</b><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> still doesn’t appear, please </span><a data-mce-fragment="1" href="https://boost.com.au/pages/get-help" data-mce-href="https://boost.com.au/pages/get-help"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">contact us</span></a><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"> for further assistance.</span>
+</li>
+</ul>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/esim-activation-issues</id>
+    <published>2024-02-14T06:46:29+11:00</published>
+    <updated>2024-03-26T10:03:49+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/esim-activation-issues"/>
+    <title>eSIM: activation issues - Boost Mobile</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1 data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><strong>I’ve downloaded my eSIM profile, but my service isn’t working</strong> </span></h1>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">In some cases, activation may take up to four hours. In most cases your service will be ready to use within a few minutes.<br><br>To connect to Boost Mobile network, try restarting your device, or switching flight mode on and off.</span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/esim-transfer</id>
+    <published>2024-02-14T06:46:19+11:00</published>
+    <updated>2024-02-14T12:00:51+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/esim-transfer"/>
+    <title>eSIM: Errors transferring eSIM to a new iPhone</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1><strong>What if I see an error when transferring from my current iPhone to eSIM on a new iPhone?</strong></h1>
+<p>If you're transferring your existing Boost Mobile service to a new iPhone, you may see an error message stating that your number can't be transferred. To complete the transfer, finish setting up your new iPhone and use the <strong>Transfer or restore eSIM</strong> feature in the <a href="https://boost.com.au/pages/my-boost-mobile-app">My Boost Mobile App</a> on your new phone.</p>
+<p>You can find this in the services section of the app or in the get help section. </p>
+<p>In the get help section, select your service, scroll down and select set up or manage eSIM.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/what-if-i-see-an-error-when-i-try-to-transfer-or-restore-an-esim</id>
+    <published>2024-02-14T06:46:08+11:00</published>
+    <updated>2024-02-14T12:00:31+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/what-if-i-see-an-error-when-i-try-to-transfer-or-restore-an-esim"/>
+    <title>eSIM: Errors when transfering or restoring an eSIM</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1 data-mce-fragment="1"><strong>What if I see an error when I try to transfer or restore an eSIM?</strong></h1>
+<p data-mce-fragment="1">If you experience an error when trying to transfer or restore an eSIM, you may be asked to try again later. If this happens more than four times in 24 hours, <a href="https://boost.com.au/pages/get-help">please contact us</a> for further assistance.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/can-an-esim-be-damaged</id>
+    <published>2024-02-14T06:45:59+11:00</published>
+    <updated>2024-03-26T10:02:37+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/can-an-esim-be-damaged"/>
+    <title>eSIM: Can an eSIM be damaged? - Boost Mobile</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1><strong>Can an eSIM be damaged?</strong></h1>
+<p>It's unlikely. Unlike a removable physical SIM card, eSIM components are built into your phone. Physical damage is rare and less common than damage to a physical SIM.<br> <br data-mce-fragment="1">If your service has stopped working, try restoring your eSIM profile in the <a href="https://boost.com.au/pages/my-boost-mobile-app?_pos=1&amp;_sid=165c127b0&amp;_ss=r">My Boost Mobile App</a>.</p>
+<p>To do this, jump onto the My Boost Mobile app, tap the service you want to switch, scroll down to the bottom and tap ‘Transfer or restore eSIM’. From here, simply follow the prompts throughout the restore flow. </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/how-do-i-remove-the-esim-profile-from-my-device</id>
+    <published>2024-02-14T06:45:49+11:00</published>
+    <updated>2024-02-14T12:00:04+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/how-do-i-remove-the-esim-profile-from-my-device"/>
+    <title>eSIM: Removing an eSIM profile</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1 data-mce-fragment="1"><b data-mce-fragment="1">How do I remove the eSIM profile from my device?<br></b></h1>
+<p><span style="font-weight: 400;">You can remove a digital eSIM profile from a device before disposing, reselling or trading in the device. A profile can be restored any time using the </span><a href="https://boost.com.au/pages/my-boost-mobile-app?_pos=1&amp;_sid=165c127b0&amp;_ss=r"><span style="font-weight: 400;">My Boost Mobile App</span></a><span style="font-weight: 400;">, but you can't remove it remotely.</span></p>
+<p><b>Important:</b></p>
+<p><span style="font-weight: 400;">Removing your eSIM profile from a device does not cancel a service or charges. </span><a href="https://boost.com.au/pages/get-help"><span style="font-weight: 400;">Contact us</span></a><span style="font-weight: 400;"> if you wish to cancel your service.</span></p>
+<p><b>To remove an eSIM profile from your device</b></p>
+<ol>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Go to </span><b>Settings</b>
+</li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Choose </span><b>Mobile Data</b><span style="font-weight: 400;"> or </span><b>Network &amp; Internet, </b><span style="font-weight: 400;">depending on your phone</span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Select the SIM or service you want to remove</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Go to </span><b>Remove Mobile Data Plan</b><span style="font-weight: 400;"> or </span><b>Erase SIM</b><span style="font-weight: 400;">, depending on your phone.</span>
+</li>
+</ol>
+<p><span style="font-weight: 400;">Steps may vary based on your operating system, so check the device manufacturer’s instructions.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1"><br></b></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/esim-my-phone-needs-to-be-repaired</id>
+    <published>2024-02-14T06:45:00+11:00</published>
+    <updated>2024-02-14T11:59:39+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/esim-my-phone-needs-to-be-repaired"/>
+    <title>eSIM: My phone needs to be repaired</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1 data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 600;" data-mce-style="font-weight: 600;"><strong>What if my phone needs to be repaired?</strong><br></span></h1>
+<p><span style="font-weight: 400;">If your device needs repair, you can transfer your service to an eSIM-enabled replacement device using the </span><a href="https://boost.com.au/pages/my-boost-mobile-app"><b>My Boost Mobile App</b></a><span style="font-weight: 400;"> from the replacement phone.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 600;" data-mce-style="font-weight: 600;"> </span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/esim-connectivity-issues</id>
+    <published>2024-02-14T06:44:49+11:00</published>
+    <updated>2024-03-26T10:02:12+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/esim-connectivity-issues"/>
+    <title>eSIM: Connectivity issues - Boost Mobile</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>I’m having connectivity issues, is it because I’m using eSIM?</h1>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Network coverage, the speed and quality of your mobile network connection are not influenced by SIM type. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">SIM faults can occur but are less likely in eSIM due to protection from exposure and handling. Any connectivity issues are likely to be temporary or based on other factors.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">To check if service disruptions may be impacting your service, </span><a data-mce-fragment="1" href="https://www.telstra.com.au/outages" data-mce-href="https://www.telstra.com.au/outages"><b data-mce-fragment="1">check for outages.</b></a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/esim-lost-esim-device</id>
+    <published>2024-02-14T06:44:34+11:00</published>
+    <updated>2024-03-26T10:03:27+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/esim-lost-esim-device"/>
+    <title>eSIM: I lost my eSIM device - Boost Mobile</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1><strong>What should I do if my eSIM-enabled device is lost or stolen?<br></strong></h1>
+<p><span style="font-weight: 400;">If your device has been lost or stolen, please </span><a href="https://boost.com.au/pages/get-help"><b>contact us</b></a><b> </b><span style="font-weight: 400;">to suspend your service immediately.  </span></p>
+<p><span style="font-weight: 400;">After identifying you as an authorised person, we can block your mobile service and device from being used on any Australian mobile network. The suspension can be immediately lifted by contacting us if your phone is returned. </span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/how-do-i-restore-my-service-if-my-esim-profile-has-been-deleted-or-is-missing</id>
+    <published>2024-02-14T06:44:13+11:00</published>
+    <updated>2024-03-26T10:02:59+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/how-do-i-restore-my-service-if-my-esim-profile-has-been-deleted-or-is-missing"/>
+    <title>eSIM: restoring eSIM profile - Boost Mobile</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1><span style="font-weight: 400;" data-mce-style="font-weight: 400;"><strong>How do I restore my service if my eSIM profile has been deleted or is missing?</strong><br></span></h1>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;"><br>You can restore your service and eSIM profile in the <a href="https://boost.com.au/pages/my-boost-mobile-app?_pos=1&amp;_sid=165c127b0&amp;_ss=r" data-mce-fragment="1" data-mce-href="https://boost.com.au/pages/my-boost-mobile-app?_pos=1&amp;_sid=165c127b0&amp;_ss=r"><b data-mce-fragment="1">My Boost Mobile App</b></a> on your eSIM-enabled device. In some cases, the restored profile activation can take up to four hours.<br><br>In the </span><a href="https://boost.com.au/pages/my-boost-mobile-app" data-mce-href="https://boost.com.au/pages/my-boost-mobile-app"><b>My Boost Mobile  app</b></a></p>
+<ol>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;">
+<span style="font-weight: 400;" data-mce-style="font-weight: 400;">Sign in to </span><a href="https://boost.com.au/pages/my-boost-mobile-app" data-mce-href="https://boost.com.au/pages/my-boost-mobile-app"><b>My Boost Mobile</b></a> <span style="font-weight: 400;" data-mce-style="font-weight: 400;"> in a browser with your Boost Mobile username and password</span>
+</li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;">
+<span style="font-weight: 400;" data-mce-style="font-weight: 400;">Choose </span><b>Get help</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> and click your service number.</span>
+</li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;">
+<span style="font-weight: 400;" data-mce-style="font-weight: 400;">Select </span><b>Set up or manage eSIM</b>
+</li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;">
+<span style="font-weight: 400;" data-mce-style="font-weight: 400;">Choose </span><b>Transfer or restore eSIM</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;">. If the option doesn't appear, either you don’t have an existing Boost Mobile service to manage, or your device is not eSIM compatible.</span>
+</li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">To reconnect, restart the device or switch flight mode on and off.</span></li>
+</ol>
+<p><b>Important:</b></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">If you can’t receive a Boost Mobile PIN by email or SMS, please </span><a href="https://boost.com.au/pages/get-help" data-mce-href="https://boost.com.au/pages/get-help"><b>contact us</b></a><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> for further assistance.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">The </span><b>Transfer or restore eSIM</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> feature will be blocked for 24 hours after a series of unsuccessful attempts. </span><a href="https://boost.com.au/pages/get-help" data-mce-href="https://boost.com.au/pages/get-help"><b>Contact us</b> </a><span style="font-weight: 400;" data-mce-style="font-weight: 400;">for further assistance.</span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/esim-switching-from-physical-sim</id>
+    <published>2024-02-14T06:43:44+11:00</published>
+    <updated>2024-02-14T11:58:41+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/esim-switching-from-physical-sim"/>
+    <title>eSIM: Switching from a physical SIM to an eSIM</title>
+    <author>
+      <name>Christine Lazona</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1 data-mce-fragment="1">
+<strong>Can I switch my physical SIM card to an eSIM, and vice versa?</strong><b data-mce-fragment="1"><br></b>
+</h1>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">You can switch your existing Boost Mobile service between a physical SIM and eSIM at any time without charge from the </span><a href="https://boost.com.au/pages/my-boost-mobile-app?_pos=1&amp;_sid=165c127b0&amp;_ss=r"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">My Boost Mobile App</span></a><span style="font-weight: 400;" data-mce-style="font-weight: 400;">.</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"><br></span></p>
+<p><strong>Switch from physical SIM card to eSIM</strong></p>
+<p>With all things eSIM, your phone needs to be compatible.</p>
+<p>Then all you need to do is jump onto the <a title="https://boost.com.au/pages/my-boost-mobile-app" href="https://boost.com.au/pages/my-boost-mobile-app" data-mce-href="https://boost.com.au/pages/my-boost-mobile-app">My Boost Mobile app,</a> and there two different ways to do it within the app.</p>
+<p><strong>Services tab</strong></p>
+<ol>
+<li>On the services homepage, tap the service you want to switch</li>
+<li>Scroll down to the bottom and tap ‘Transfer or restore eSIM’.</li>
+<li>Follow the prompts and you'll be binning your SIM card in no time.</li>
+</ol>
+<p><strong>Get help</strong></p>
+<ol>
+<li>Tap Get help and select your service number</li>
+<li>Select set up or manage eSIM</li>
+<li>From here, we'll guide you through the process and you'll be physical SIM-less in a few minutes.</li>
+</ol>
+<p> </p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">If you can’t access the app, </span><a href="https://boost.com.au/pages/get-help"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">contact us</span></a><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> for assistance.</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"><br><br></span></p>
+<p><b>Switch from eSIM to physical SIM card</b></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">To switch back to a physical SIM card, you’ll need to order a replacement SIM. See </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"><a href="/blogs/help-topics/replacement-sim">H</a><a title="replacement SIM" href="https://boost.com.au/blogs/help-topics/replacement-sim">ow do I get a replacement SIM</a></span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> for more information on how to order a replacement.</span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://boost.com.au/blogs/help-topics/does-boost-have-esim-capability</id>
+    <published>2021-12-03T13:19:57+11:00</published>
+    <updated>2024-03-12T14:43:25+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://boost.com.au/blogs/help-topics/does-boost-have-esim-capability"/>
+    <title>Does Boost have eSIM capability</title>
+    <author>
+      <name>Emily Peake</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h1>Does Boost Mobile have eSIM capability?</h1>
+<p>We sure do! And the best news... All of our plans are available on eSIM.</p>
+<p>All you have to do to sign up for your eSIM service is download the My Boost Mobile app and select “Buy a prepaid plan on eSIM” and follow the prompts. It’s pretty straightforward though, tbh.</p>
+<p><a href="https://boost.com.au/pages/esim" title="eSIM Boost Mobile">More info on Boost Mobile eSIM.</a></p>]]>
+    </content>
+  </entry>
+</feed>
